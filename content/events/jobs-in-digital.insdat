@@ -1,0 +1,69 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Finding a job in the digital space
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Finding a job in the digital space</h2>
+					<p><span>23rd November 2011, 2:00PM</span> Broadcasting Place</p>
+				</div>
+				
+<p>How do you get the edge when half of this year's graduates are predicted to to remain unemployed for the foreseeable future?</p>
+
+<p>In this session Andrew Thomas will provide you with a unique understanding of what any prospective employer wants from you. Not just your qualifications, knowledge and aptitude, but the whole personality. At the end of this session you will have learnt the tips and techniques to ensure you get in front of the companies you want to work for, project the best you can be at interview and guarantee to impress.</p>
+
+<p>This session will discuss finding a job in the 'digital space', including getting best use of the digital tools at your disposal.</p>
+
+<h3 class="content">Andrew Thomas</h3>
+<p>Andrew’s experience extends back over twenty years having joined BMP DDB in London in the late eighties. </p>
+
+<p>He spent most of his advertising agency time working for McCann-Erickson in London and Manchester in a succession of account management, planning and business development roles on brands such as Black & Decker, Gillette, Clarks, Unilever and Philips. </p>
+
+<p>He founded McCann’s UK Network digital operation in Manchester in 1999 and was responsible for helping brands such as Sainsbury’s Bank, Thomson Holidays and Magnet migrate their marketing spend online and develop significant digital propositions. He ran the McCann-i operation until 2004 when he left to join Pavilion Communications as Managing Director – now part of the Hasgrove Group – until he joined Bounty as Executive Director in 2005. </p>
+
+<p>In addition to running the green field, Andrew is a Media Development Professional with Northwest Vision and Media and an Associate Coach working with Winning Pitch on the Northwest Regional Development Agency’s High Growth Programme. He also runs the Northern Lights programme that develops and transitions graduate new entrants into the digital industry regionally. </p>
+
+<p>He is a non-executive director of Fudge the digital agency and Chillingo the UK’s leading mobile games publisher. He remains a trustee of the Bounty Charitable Trust and is a frequently quoted spokesperson in the new media press and a regular conference speaker.</p>
+
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>23rd November 2011<br />
+<strong>Time: </strong>2:00PM - 3:30PM<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong><a href="http://econsultancy.com/uk/events/finding-a-job-in-the-digital-space">Econsultancy</a>. Places are limited and priority will be given to students and recent graduates.<br />
+<strong>Organised by: </strong><a href="http://econsultancy.com/uk/events/finding-a-job-in-the-digital-space">Econsultancy</a> / <a href="http://twitter.com/#!/lisawisniowski">Lisa Wisniowski</a></p>						
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?ftid=0x48795c02538ab9af:0xe6ad32987554647&q=Broadcasting+Place,+Woodhouse+Lane,+Leeds&hl=en&sll=53.805834,-1.548665&sspn=0.006295,0.006295&ie=UTF8&ll=53.811396,-1.565166&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Broadcasting Place</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce3523d5c11fd3&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce3523d5c11fd3&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

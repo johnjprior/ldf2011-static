@@ -1,0 +1,89 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: resources
+NAV_NAME: Resources
+NAME: Press Resources
+SUB_PAGE: yes
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/resources/"><strong class="page-tag">Resources</strong></a>
+				
+				<div class="post-title">
+					<h2>Press Resources</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>The aim of the Leeds Digital Festival – which, now in its fourth year, attracts thousands of participants – is to promote the work and talent the city has to offer, from urban artists, digital practitioners, students, freelancers and other collaborators.</p>
+But what is it really all about and who is it for? Both questions we get asked on a regular basis so here’s a quick run down on why the festival is happening and what to look out for.
+					</p>
+								</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+				<div class="post-title">
+					<h2>Why?</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>Leeds has a proud history of digital innovation and we want to celebrate it with a month long programme of events.</p>
+<p>The aim is to unite everyone who works in digital and evangelise, share experiences and learn new things, but the web is in no way all good, and we will also be objective and critical.</p>
+<p>The aim of the festival this year is primarily to unite people who are already here. We need to do that first before we can project outwards. But together we are stronger than we are as individuals and by pulling together with a shared goal we can put Leeds firmly on the map as a place of thinkers, doers, tinkerers – whether that is as art, business or pleasure.
+					</p>					
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+				<div class="post-title">
+					<h2>What?</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>After four years as a predominantly public sector led festival, Leeds Digital Festival is being reborn.</p>
+<p>A group of talented and skilled volunteers from the city’s digital sector have come together, to make the festival happen. The views, concerns, positive and negative feedback from the last three years have all been considered in a new collective approach. 
+					</p>					
+<p>So what, you might ask makes this year different?</p>
+<p>It’s bottom up, not top down. Everything for the festival whether it be this website, the new branding, the press coverage, event guide and events themselves have all been created with zero budget and a huge amount of good will from talented individuals giving up their spare time.</p>
+<p>It’s distributed. If you have an idea, the will to put on an event, then we provide a thread to stitch it into the wider festival. This year’s festival is a platform for anyone wanting to shout about digital. It isn’t just a programme of events it’s an opportunity for the city to show off from app launches to raising awareness about local digital projects, the festival offers an opportunity to highlight digital in its eclectic forms - it will cover digital art, science, culture business and new ideas.</p>
+<p>This year is a prototype. We’re building it, testing it, seeing what works and what doesn’t and it will be better every time.</p>
+			</div>
+CONTENT_2
+CONTENT_3:
+			<div class="block">
+				<div class="post-title">
+					<h2>Who?</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>Leeds has a proud history of digital innovation and we want to celebrate it with a month long programme of events.</p>
+<p>The aim is to unite everyone who works in digital and evangelise, share experiences and learn new things, but the web is in no way all good, and we will also be objective and critical.</p>
+<p>This is aimed at everyone who has an interest in the web and digital technology. You may do it for love, you may do it for money. You may do it for yourself, or for others. You might have been in the industry for years, you might be studying, or just have a passing interest. If you would like to get involved in organising an event, or help make the festival happen, then come to the <a href="/events/last-festival-meeting.html">next meeting</a> or <a href="/about/contact-us.html">contact us</a>. 
+					</p>					
+								</div>
+CONTENT_3
+CONTENT_4:
+			<div class="block">
+				<div class="post-title">
+					<h2>When?</h2>
+					<p>&nbsp;</p>
+				</div>
+<p>The festival will take place throughout November at venues across the city, but some pre-Festival events are taking place earlier.</p>
+			</div>
+CONTENT_4
+CONTENT_5:
+			<div class="block">
+				<div class="post-title">
+					<h2>Want to know more?</h2>
+					<p>&nbsp;</p>
+				</div>
+<p>This website will continue to be updated with the latest <a href="/">events</a> and <a href="/news/">news</a>. Alternatively, you can <a href="/about/contact-us.html">contact us</a> via <a href="http://www.facebook.com/leeds.digital.festival">Facebook</a> or <a href="http://twitter.com/ldsdigital">Twitter</a>, or sign up to our <a href="/about/contact-us.html">mailing list</a>.</P>
+
+				
+			</div>
+CONTENT_5
+INCLUDE_0: resources_nav.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

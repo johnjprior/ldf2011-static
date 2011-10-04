@@ -1,0 +1,26 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: none
+NAV_NAME: None
+NAME: Accessibility
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/accessibility/"><strong class="page-tag">Accessibility</strong></a>
+				
+				<div class="post-title">
+					<h2>Using this website</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>We've aimed to make this website accessible to all users by following the <a href="http://www.w3.org/TR/WCAG10/">Web Content Accessibility Guidelines</a> to AA standard. We may have slipped up, or included content from elsewhere which doesn't match up (please <a href="/about/contact-us.html">let us know if so</a>).</p>
+					<p>Some visual effects we've used don't work in all browsers. Yes, that does mean Internet Explorer. Sorry about that. You're just missing out on a little pizzazz, not on any of the information or other presentation.</p>
+
+				
+			</div>
+CONTENT_0
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

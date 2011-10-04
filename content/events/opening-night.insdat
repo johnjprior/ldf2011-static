@@ -1,0 +1,68 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Leeds Digital Festival Launch
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Leeds Digital Festival Launch</h2>
+					<p><span>1st November 2011, 5:30PM</span> Munro House</p>
+				</div>
+				
+<p>To start the festival on a high and show off the digital community of Leeds this launch event will showcase the month of activity – and introduce those involved in the organising of the festival.</p>
+<p>The event will be open to anyone, and will be one of the events expected to attract the majority of the Leeds digital scene.</p>
+<p>Designed as a celebration and a showcase the event will:</p>
+
+<ul>
+<li>To create an atmosphere of celebration ahead of the month of activity</li>
+<li>To ensure that all forms of digital are represented portraying the Leeds digital scene as diverse and vibrant</li>
+<li>To offer a platform to all event organisers to showcase their event and their digital talents ahead of the activity taking place throughout November</li>
+</ul>
+
+<p>This event will also double as the press launch for the festival and will be an opportunity for the media to More info about the digital sector in Leeds and the festival itself.</p>
+<p>There will be live music through-out the evening from local bands, as well as a bar. People will be able to socialise, talk digital and generally mingle while being in a fun, relaxing environment.</p>
+<p>There will be exhibits of between 5 and 8 of the upcoming events, giving guests a taster of what is to come, and the opportunity to sign up to attend where necessary.</p>
+<p>Guests and the media will be able to speak with other industry experts, or to simply come and enjoy some really good music and find out about what digital Leeds has to offer.</p>
+<p>We will be having the chosen LDF logo animated and projected through the ground floor windows to be seen by passers-by and those attending, a xBox Kinect inspired photographic display in the foyer, before taking the lift to the 3rd floor when you will open out into the space.</p>
+<p>There will be a bar in operation and food will be served during the evening.</p>
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>1st November 2011<br />
+<strong>Time: </strong>5:30PM - 9:30PM<br />
+<strong>Cost: </strong>Free (ticket required)<br />
+<strong>Where to get tickets: </strong><a href="http://leedsdigitalfestivallaunch.eventbrite.com/">Eventbrite</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/steveharrison00">Steve Harrison</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?ftid=0x48795c16c44f09af:0x9e8de5252d8a3004&q=Munro+House,+Duke+Street,+Leeds&hl=en&sll=53.796784,-1.533925&sspn=0.006295,0.006295&ie=UTF8&ll=53.802349,-1.550424&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Munro House</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca346bab7ed01e7&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca346bab7ed01e7&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

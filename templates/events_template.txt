@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+
+	<title>Leeds Digital Festival 2011</title>
+
+	<link rel="stylesheet" href="css/style.css">
+
+	<link rel="shortcut icon" href="icon.png">
+	<link rel="apple-touch-icon-precomposed" href="icon.png">
+	<link type="text/plain" rel="author" href="humans.txt">
+</head>
+<body>
+
+	<!--
+		
+		####    #########  ########E ########   #########         f#######   ####  ########f #########  ######### E###                            
+		####    #########  ########E ########;  #########         f#######;  ####  ########f #########  ######### E###                            
+		####    #########  ########E #########  #########         f########  ####  ########f #########  ######### E###                            
+		####    #########  ########E #########  #########         f########  ####  ########f #########  ######### E###                            
+		####    ####       ###;      #### ####  ###E              f###;;###  ####  ####         ###E    #### #### E###                            
+		####    #########  ########E #### ####  #########         f###;;###  ####  #### ###f    ###E    ######### E###                            
+		####    #########  ########E #### ####  #########         f###;;###  ####  #### ###f    ###E    ######### E###                            
+		####    #########  ########E #### ####  #########         f###;;###  ####  #### ###f    ###E    ######### E###                            
+		####    #########  ########E #### ####  #########         f###;;###  ####  #### ###f    ###E    ######### E###                            
+		####    ####       ###;      #### ####       ####         f###;;###  ####  #### ###f    ###E    #### #### E###                            
+		######; #########  ########E #########  #########         f########  ####  ########f    ###E    #### #### E######                         
+		######; #########  ########E #########  #########         f########  ####  ########f    ###E    #### #### E######                         
+		######; #########  ########E ########E  #########         f#######E  ####  ########f    ###E    #### #### E######                         
+		######; #########  ########E ########   #########         f#######   ####  ########f    ###E    #### #### E######                         
+																																				
+																																				
+																																				
+		######### ;########  #########  ########  E###  #### #### f########  ####                                                                 
+		######### ;########  #########  ########  E###  #### #### f########  ####                                                                 
+		######### ;########  #########  ########  E###  #### #### f########  ####                                                                 
+		####;;;;; ;###j;;;;  ####;;;;;  ;;####;;  E###  #### #### f###;j###  ####                                                                 
+		####      ;###;      ####         ####    E###  #### #### f### ;###  ####                                                                 
+		######### ;########  #########    ####    E###  #### #### f########  ####                                                                 
+		######### ;########  #########    ####    E###  #### #### f########  ####                                                                 
+		######### ;########  #########    ####    E###  #### #### f########  ####                                                                 
+		####fffff ;###Lffff  fffff####    ####    E###  #### #### f###fL###  ####                                                                 
+		####      ;###EEEEE  EEEEE####    ####    E###  ####E#### f### ;###  ####EEt                                                              
+		####      ;########  #########    ####    E###  ######### f### ;###  ######f                                                              
+		####      ;########  #########    ####    E###  ######### f### ;###  ######f                                                              
+		####      ;########  #########    ####    E###   ######   f### ;###  ######f
+	
+	-->
+
+	<div class="header">
+			<div class="block">
+		
+			<a href="/"><h1 class="shadow">Leeds Digital Festival</h1></a>
+		
+			<!-- Top nav row -->
+			<ul class="nav link-block">
+				<li
+				<!-- insertif: ACTIVE_NAV="about" -->
+				class="current"
+				<!-- insertifend -->
+				><a href="/about/" class="block">
+					<span>About</span> the festival
+				</a></li>
+				<li
+				<!-- insertif: ACTIVE_NAV="home" -->
+				class="current"
+				<!-- insertifend -->
+				><a href="/" class="block">
+					<span>Events</span> during the festival
+				</a></li>
+				<li
+				<!-- insertif: ACTIVE_NAV="news" -->
+				class="current"
+				<!-- insertifend -->
+				><a href="/news/" class="block">
+					<span>News</span> and updates about the festival
+				</a></li>
+			</ul>
+		
+			<p>Leeds Digital Festival is a celebration across the city throughout November, demonstrating how Leeds embraces and utilises digital in all its forms.</p>
+			
+			<p>Starting on November 1st there will be a host of events, shows, lectures and meet-up to bring the digital community together.</p>
+			
+			<!-- Secondary nav row -->
+			<ul class="nav link-block">
+				<li
+				<!-- insertif: ACTIVE_NAV="video" -->
+				class="current"
+				<!-- insertifend -->
+				><a href="/video/" class="block">
+					<span>Videos</span> from festival events
+				</a></li>
+				<li
+				<!-- insertif: ACTIVE_NAV="locations" -->
+				class="current"
+				<!-- insertifend -->
+				><a href="/locations/" class="block">
+					<span>Locations</span> where you can find events and checkins
+				</a></li>
+				<li
+				<!-- insertif: ACTIVE_NAV="resources" -->
+				class="current"
+				<!-- insertifend -->
+				><a href="/resources/" class="block">
+					<span>Resources</span> for press and event organisers
+				</a></li>
+			</ul>
+			<ul class="nav link-block">
+				<li><a href="http://twitter.com/#!/LDSDigital" class="block">
+					<span>Twitter</span> We're @ldsdigital
+				</a></li>
+				<li><a href="http://www.facebook.com/leeds.digital.festival" class="block">
+					<span>Facebook</span> Let’s be friends
+				</a></li>
+				<li><a href="/about/contact-us.html" class="block">
+					<span>Contact us</span> to find out more or get involved
+				</a></li>
+			</ul>
+		
+		</div>
+<!-- insertwhile: LH_BLOCK -->
+	
+
+		
+	</div>
+	
+	<div class="page">
+		
+		<div class="col">
+		
+<!-- insertwhile: CONTENT -->
+			
+
+
+
+<!-- insertif: FACEBOOK_COMMENTS -->
+				<div class="block">
+					<strong class="page-tag">Comments</strong>
+					<div id="fb-root"></div>
+					<script>(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) {return;}
+					js = d.createElement(s); js.id = id;
+					js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+					fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script>
+
+					<div class="fb-comments" data-href="<!-- insert: URL -->" data-num-posts="30" data-width="500"></div>
+				</div>
+<!-- insertifend -->
+
+<!-- insertif: NAME="Home" -->
+<!-- insertelsif: SUB_PAGE -->
+				<div class="block">
+					<strong class="page-tag">Navigation</strong>
+					<p>&nbsp;</p>
+				<p>
+
+				<a href="/<!-- insert: ACTIVE_NAV -->/" class="btn">
+				Back to <!-- insert: NAV_NAME --></a>
+				&nbsp;&nbsp;
+				<a href="/" class="btn">Back to Home</a>
+				</p>
+				</div>
+<!-- insertelse -->
+				<div class="block">
+					<strong class="page-tag">Navigation</strong>					
+					<p>&nbsp;</p>
+				<p>
+				<a href="/" class="btn">Back to Home</a>
+				</p>
+				</div>
+<!-- insertifend -->
+		</div>
+	</div>
+    
+    <div class="footer block">
+<p>
+<a href="/terms/"><span>Terms of use</a>&nbsp;&nbsp;
+<a href="/privacy-policy/"><span>Privacy policy</a>&nbsp;&nbsp;
+<a href="/accessibility/"><span>Accessibility</a>&nbsp;&nbsp;
+        © Copyright 2011 Leeds Digital Festival</p>
+    </div>
+
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-22368289-1']);
+			  _gaq.push(['_trackPageview']);
+			  (function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+		</script>
+
+</body></html>

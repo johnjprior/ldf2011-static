@@ -1,0 +1,51 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: none
+NAV_NAME: None
+NAME: Privacy Policy
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/privacy-policy/"><strong class="page-tag">Privacy Policy</strong></a>
+				
+				<div class="post-title">
+					<h2>Leeds Digital Festival and your data</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>Leeds Digital Festival is a community organisation, and we have no desire or means to sell on your data, or to use it in any way other than for the reason you gave it to us. Unless you gave it to us for a really weird reason that's actually unrelated to why we asked you for it. Don't look like that, we're not the ones going out giving out personal data for indescribably strange reasons.</p>
+					<p>There are two places where we may collect your information in a database:</p>
+					<ul>
+					<li>Our mailing list (held on Mailchimp)</li>
+					<li>Our voting database for the design vote</li>
+					</ul>
+					<p>Our mailing list is only used to send mail out about news about the Festival or events relating to the Festival, and collects your name and email address. You can unsubscribe from this mailing list at any time. The only people who have access to the mailing list are members of the Leeds Digital Festival steering committee. And not even all of them, to be honest, although that's partly because not all of them can be bothered learning how to use Mailchimp.</p>
+					<p>Our voting database gathered the email address and IP address of each voter. This data was only used for detecting and discarding duplicate votes (and there's a couple of people who should be ashamed of themselves, even if it's only for how little work they put into covering up their tracks). The only people who had access to this data were the website hosts and vote counters (those steering committee chaps again, they get everywhere. Apparently one of them is even writing this policy.)</p>
+					<p>You may expose your data to us in other ways, such as via Facebook and Twitter, or in person by coming up to us and introducing yourself. Facebook and Twitter store this data in their own systems, but we don't record or store this data in any way except (imperfectly) in our memories for the purposes of remembering who you are the next time we talk to you. It'd be a bit rude otherwise, don't you think?</p>
+					<p><strong>An important exception:</strong> Most of the events in the Festival are organised independently, and organisers may ask you for information on their own websites, via Eventbrite or other ticketing mechanisms, personally, via carrier pigeon, or possibly other ways. We don't run a central data policy, and whilst everyone involved in organising Festival events seems perfectly lovely, we encourage to you review their own privacy policies before handing over your names, addresses, phone numbers, souls, or wallets, even if they do have what appears to be a perfectly valid H.M. Wallet Inspector identity card.</p>
+					
+				
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+				
+				<div class="post-title">
+					<h2>Cookies</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>We've got a Google Analytics tag on the site, so that'll have a cookie in it. Not that we're really doing anything specific with the traffic data, but obviously we're interested in what people are looking at in an abstract sense. Yes, abstract is definitely the word, not egotistical. We may end up using the traffic data to convince sponsors to help out with the Festival next year, and you should be aware of that. But you should also be aware that this is just aggregate data, and that you're not going to be individually identified within it. If this is a problem for you, then Google have an <a href="http://tools.google.com/dlpage/gaoptout">opt-out tool for Google Analytics</a>. It's in Beta, but you were probably expecting that.</p>
+										<p>We've also got sharing tools - AddThis and Facebook comments. These do set cookies. Lots of cookies. Here's the <a href="http://www.addthis.com/privacy">AddThis privacy policy</a>, but that also pulls in cookies off Twitter and Google +1, so you'll want to see the <a href="http://twitter.com/privacy">Twitter privacy policy</a> and the <a href="http://www.google.com/intl/en/+/policy/+1button.html">Google +1 privacy policy</a> too. Although that may be a wanton abuse of the word "want". Oh, and here's the <a href="http://www.facebook.com/about/privacy/your-info-on-other#socialplugin">Facebook privacy policy on plugins</a>.</p>
+
+					<p>Other than that barrel-load of cookies, we may ourselves store a cookie with a session ID in it (we don't at the time of writing, but we may need to when we add some additional functionality). But all this would be used for is tracking any state information we need to be able to show you what you've asked for (the session ID on your computer will match up with a file with the information we need on our server). We won't store this permanently - it'd get deleted automatically after your session has ended.</p>
+					<p>At no point do we store any of your personal information on the computer you're using to access this site.</p>
+					
+				
+			</div>
+CONTENT_1
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

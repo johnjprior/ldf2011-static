@@ -1,0 +1,43 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: none
+NAV_NAME: None
+NAME: Terms
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/terms/"><strong class="page-tag">Terms</strong></a>
+				
+				<div class="post-title">
+					<h2>Conditions for using this site</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>Really, we need a legal page?</p>
+<p>Really?</p>
+<p>Okay, we'll do it, but you should definitely know that we feel really icky about it. Does anybody know if the word 'icky' has any legal standing, incidentally?</p>
+<ol>
+<li>'We' means Leeds Digital Festival, 'site' or 'website' means the website at www.leedsdigitalfestival.co.uk, and 'You' means the person reading this. You know, you.</li>
+<li>Okay, the materials on this site are &copy; Leeds Digital Festival 2011 unless otherwise stated, but, you know, it's a sharing world, and we grant rights to quote or republish anything on the site which doesn't have an additional copyright notice on it. Where there's an additional copyright notice (probably mostly on photos, but also Google Maps and probably other stuff), the rules specified by the creator of that content apply, and you will respect that.</li>
+<li>In particular, the programme of events is freely distributable - share that as much as you like (go on). This site is here to spread the word about events, not to act as a traffic aggregator, so we have absolutely no problem with you publishing the programme elsewhere. Except if you're publishing it for the purposes of war (we read this condition in an OSS licence, and liked it), or for the commission or abetting (or aiding) of any crime. What crimes you could possibly commit by publishing the information on here we have no idea, but frankly, some people's imaginations are just plain scary and we wouldn't want to try out-guessing them. Oh, libel might be one - you can't use this site or its content for committing libel, but you can't use it for committing any other crimes either.</li>
+<li>We've tried really hard to make sure that all the information on this site is accurate and up-to-date, but sometimes we may fail in this regard. We will not be held liable for any losses, missed events, events that don't match up to their descriptions, failure to meet the love of your (or someone else's) life, or other disappointments that follow on from believing the information on this website, or acting as though you believe it even if you don't. We're also not responsible for any other losses or damages which follow on in any way from you using the site. If you get sacked for reading it at work, sorry, you're on your own.</li>
+<li>Some of the information on here may not be suitable for children. We can't think of anything on here that meets that description, but some kids get pretty sheltered. If you let children for whom you're responsible use this site, you're responsible for making sure that this site is appropriate for them to view. We're not your babysitters.</li>
+<li>We use some external services and link to external sites - we won't be held responsible for anything they say or do. Not even if they start telling jokes about your mother.</li>
+<li>We won't be held responsible for any fees or expenses you incur while viewing this site, such as bandwidth charges but including any other software, hardware or infrastructure costs. We feel a bit silly saying it, but it's something the BBC talk about in their terms and they use really good lawyers. And really good lawyers never worry about utterly daft scenarios, do they?</li>
+<li>If any clause on this page turns out to be unenforcable (as if), the rest of them still apply. </li>
+<li>You can't transfer any rights granted here to any third party, and we can't enforce them on any third party either. Seems fair, doesn't it?</li>
+<li>We reserve the right to stop providing the services on this website at any time, either to everyone or just to you, personally, even if that seems a bit mean or unfriendly.</li>
+<li>This site is published in the United Kingdom. Any dispute arising out of these terms or this site will be governed by the laws of England and Wales, and any proceedings brought in connection with the terms or site must be done so in the courts of England and Wales. Going to court would be quite bad enough without having to go to a foreign court, you know.</li>
+<li>Nothing in this document is intended to interfere with or contradict any of your statutory rights.</li>
+</ol>
+<p>That covers all possible loopholes, right?</p>
+
+
+				
+			</div>
+CONTENT_0
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

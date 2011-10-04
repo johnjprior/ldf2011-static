@@ -1,0 +1,50 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: video
+NAV_NAME: Video
+NAME: Video
+CONTENT_REVERSE: Yes
+CONTENT_2:
+			<div class="block">
+				
+				<strong class="page-tag">Video</strong>
+				
+				<div class="post-title">
+					<h2>Festival videos</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>We don't have video from all our events, but whenever we have it, we'll publish it here. Or you could <a href="http://www.youtube.com/user/DigitalLeeds">subscribe to our channel on Youtube</a>.</p>
+				
+			</div>
+CONTENT_2
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<a href="sociality.html" class="heading"><h2>Sociality</h2></a>
+					<p><span>17th August 2011</span> As part of our series of lunchtime events at The Adelphi, we put together a panel of experts on social media.</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/Z7tv30_dlBE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/Z7tv30_dlBE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+<p>There are six more videos showing the whole event. See the rest after the jump.</p><p><a href="sociality.html" class="btn more">More Sociality videos</a></p>
+				
+			</div>
+CONTENT_1
+CONTENT_0:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Vote for Leeds</h2>
+					<p><span>27th July 2011</span> We went out onto the streets of Leeds to see what people thought of our three brand design contenders.</p>
+				</div>
+				
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/WOODtwJy5Ao?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/WOODtwJy5Ao?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+				
+			</div>
+CONTENT_0
+INCLUDE_0: recent_videos.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

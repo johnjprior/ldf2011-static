@@ -1,0 +1,56 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: The Cream Awards
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>The Cream Awards</h2>
+					<p><span>10th November 2011, 7:00PM</span> Saviles (Royal Armouries)</p>
+				</div>
+<p>The Cream Yorkshire Awards are all about celebrating and rewarding creativity in Yorkshire.</p>
+
+<p>Open exclusively to those based in Yorkshire and The Humber, these awards provide the opportunity for those in this region to compete with others in their area.</p>
+
+<p>The results of the nominations will be revealed at an event to take place on Thursday 10th November in Leeds.</p>
+
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>10th November 2011<br />
+<strong>Time: </strong>7:00PM to 11:30PM<br />
+<strong>Cost: </strong>Details coming soon<br />
+<strong>Where to get tickets: </strong><a href="http://yorkshire.creamawards.co.uk/pages/ceremony">Cream Awards tickets</a><br />
+<strong>Links: </strong><a href="http://yorkshire.creamawards.co.uk/">Cream Awards website</a><br />
+<strong>Organised by: </strong><a href="http://www.thedrum.co.uk/">The Drum</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=8659683119296520776&q=Saviles+Hall&hl=en&sll=53.791512,-1.532555&sspn=0.006295,0.006295&ie=UTF8&ll=53.797077,-1.549051&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Saviles (Royal Armouries)</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae58b926b4e026803&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae58b926b4e026803&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

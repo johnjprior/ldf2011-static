@@ -1,0 +1,27 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: resources
+NAV_NAME: Resources
+NAME: Brand guidelines
+SUB_PAGE: yes
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/resources/"><strong class="page-tag">Resources</strong></a>
+				
+				<div class="post-title">
+					<h2>Brand guidelines</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>Brand guidelines will go here.
+					</p>
+				
+			</div>
+CONTENT_0
+INCLUDE_0: resources_nav.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

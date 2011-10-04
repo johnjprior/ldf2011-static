@@ -1,0 +1,15 @@
+TEAM
+
+	Harry Roberts -- Designer/developer -- @csswizardry
+	Gaz Battersby -- Designer           -- @iamgaz
+	Nick Payne    -- Developer          -- @makeusabrew
+	Ian Thomas    -- UI/UX              -- @anatomic
+	John Prior    -- Project Manager    -- @johnjprior
+	Emma Harvey   -- Project Manager    -- @em606
+
+
+SITE
+
+	HTML
+	CSS
+	JAOSS -- https://github.com/makeusabrew/jaoss/

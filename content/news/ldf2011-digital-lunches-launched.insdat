@@ -1,0 +1,34 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: The Pixels have it:  Team B win the vote
+SUB_PAGE: YES
+CONTENT_0:
+			<div class="block">
+
+					
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+				<div class="post-title">
+					<h2>Leeds Digital Festival launches Leeds Digital Lunches</h2>
+					<p><span>6th July 2011</span> by Adrian Johnson</p>
+				</div>
+<p>Plans for this year’s Leeds Digital Festival, a month-long celebration of the region’s digital sector, are taking shape with the announcement of four free seminars for local businesses in the run-up to November’s event.</p>
+<p>The first lunchtime seminar will, for the first time, bring together the heads of the region’s leading search engine optimisation (SEO) agencies who will provide a free session debating some of the sector’s hottest topics.</p>
+<p>The panel will include Stu Owens from Bloom, Fergus Clawson from Blueclaw, Martin Davies from Brass, Pete Young from Brilliant Media, Andy Heaps from Epiphany Solutions, Craig Broadbent from Fusion, Peter Cobley from Home James, Lee Allen from Stickyeyes and Jono Alderson from Twentysix.</p>
+<p>Businesses from the region attending the informative, hour-long session will hear the panel discuss a variety of SEO-related issues including the latest cookie regulations, different approaches to SEO as well as effectiveness and value. </p>
+<p>Simon Wilson, one of the organisers of this year's Leeds Digital Festival, said: "This is a fantastic opportunity to hear the brightest search minds in Leeds talk about their digital specialism. 
+“These guys really know their beans and are seen as some of the best and brightest not just in the city, but also in the UK. That they have agreed to share the same platform is testament to the current spirit in the Leeds digital community. </p>
+<p>“This event has the potential to be a fascinating discussion and debate – not just for marketers and digital folk, but for business owners in the city.”</p>
+				
+				
+			</div>
+CONTENT_0
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -1,0 +1,18 @@
+LH_BLOCK:
+<div class="block">
+		
+			<a href="/news/" class="heading"><h2>Pages in News</h2></a>
+			<ul class="nav link-block">
+				<li><a href="/news/" class="block">
+					<span>News</span> all of our latest news stories
+				</a></li>
+				<li><a href="/news/what-others-are-saying.html" class="block">
+					<span>What others are saying</span> A selection of links to writing about the Festival from the media, blogs and elsewhere
+				</a></li>
+			</ul>
+
+
+		</div>
+
+
+LH_BLOCK

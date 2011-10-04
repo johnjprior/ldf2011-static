@@ -1,0 +1,18 @@
+LH_BLOCK:
+<div class="block">
+		
+			<a href="/resources/" class="heading"><h2>Pages in Resources</h2></a>
+			<ul class="nav link-block">
+				<li><a href="/about/" class="block">
+					<span>Resources</span> for journalists and event organisers
+				</a></li>
+				<li><a href="/resources/brand-guidelines.html" class="block">
+					<span>Brand guidelines</span> and visual assets for event organisers to use
+				</a></li>
+				<li><a href="/resources/press-resources.html" class="block">
+					<span>Press resources</span> facts and information for journalists, to make writing about the Festival easier
+				</a></li>
+			</ul>
+
+		</div>
+LH_BLOCK

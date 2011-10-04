@@ -1,0 +1,57 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Inspire.Create
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Inspire.Create</h2>
+					<p><span>27th October 2011, 12:00PM</span> The Faversham</p>
+				</div>
+				
+<p>A "Student Showcase" event, aimed at retaining raw creative talent in Leeds and providing Students and Freelancers the opportunity to showcase their abilities to the media, digital and creative sector. Not only will it give local students and freelancers the chance to showcase their digital work to the thriving creative sector we have here in Leeds, but there are also two fantastic prizes for the winners. Brass Agency is offering a paid placement with in their business and Logistik are donating a brand new Mac plus a highly experienced mentor as the other prize.</p>
+
+<p>To enter, <a href="mailto:info@inspirecreateleeds.co.uk">email info@inspirecreateleeds.co.uk</a> with your best piece of work to date. The exhibition is open to all full time media, digital and creative students, graduates and freelancers, whether a graphic genius, PR guru, web geek, digi designer.</p>
+
+<p>Entries have to be submitted before Thursday 20th October, and will be displayed in the <a href="http://www.inspirecreateleeds.co.uk">online gallery</a>. The top 15 entrants will be selected via an online voting system and will be given the chance to showcase their work at Inspire.Create, on Thursday 27th October, where a panel of experts will pick the final winners.</p>
+
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>27th October 2011<br />
+<strong>Time: </strong>12:00PM - 9:00PM<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong><a href="http://www.inspirecreateleeds.co.uk/tickets/">Inspire. Create.</a><br />
+<strong>To enter: </strong><a href="mailto:info@inspirecreateleeds.co.uk">Email info@inspirecreateleeds.co.uk</a><br />
+<strong>Organised by: </strong><a href="http://www.leedsmedia.co.uk/">Leeds Media</p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=3432548751289332624&q=The+Faversham,+Leeds&hl=en&sll=53.804381,-1.558165&sspn=0.010433,0.019894&ie=UTF8&ll=53.809939,-1.574671&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">The Faversham</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae7fde148f384ba7b&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae7fde148f384ba7b&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

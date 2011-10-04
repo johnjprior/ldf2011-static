@@ -1,0 +1,64 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: about
+NAV_NAME: About
+NAME: About
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/about/"><strong class="page-tag">About</strong></a>
+				
+				<div class="post-title">
+					<h2>Leeds Digital Festival</h2>
+					<p>&nbsp;</p>
+				</div>
+				<p>Leeds Digital Festival is a celebration of digital technology and platforms. The digital industry spans business, art, culture, education and lifestyle; and the festival features a range of events, shows, lectures, and social events to bring the entire community together.</p>
+					<p>Leeds Digital Festival is in its fourth year, but this is its first year as a community festival. For an illustration of just what that means, take a look at our <a href="/about/contributors.html">contributors page</a> to see how many people have put their time and talent into making the festival happen.</p>
+<p>Officially taking place in November, the current programme spans six weeks, showing the breadth and depth of what 'digital' means to Leeds, and celebrating Leeds' pride in its digital past, present and future.</p>
+
+					
+				
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+				
+				<div class="post-title">
+					<a href="contact-us.html" class="heading"><h2>Contact us</h2></a>
+					<p>&nbsp;</p>
+				</div>
+
+				<p>If you'd like more info about the festival, sign up to our mailing list, or join the conversation, you can find out how to do that here.</p>
+<p><a href="contact-us.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+				
+				<div class="post-title">
+					<a href="sponsors.html" class="heading"><h2>Sponsors</h2></a>
+					<p>&nbsp;</p>
+				</div>
+
+				<p>We'd like to thank our sponsors for their support.</p>
+<p><a href="sponsors.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_2
+CONTENT_3:
+			<div class="block">
+				
+				<div class="post-title">
+					<a href="sponsors.html" class="heading"><h2>Contributors</h2></a>
+					<p>&nbsp;</p>
+				</div>
+
+				<p>So many people and organisations have helped build Leeds Digital Festival into what it is - here's where we tell you whom some of them are.</p>
+<p><a href="contributors.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_3
+INCLUDE_0: about_nav.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -1,0 +1,41 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: locations
+NAV_NAME: Locations
+NAME: Locations
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/locations/"><strong class="page-tag">Locations</strong></a>
+				
+				<div class="post-title">
+					<h2>Locations</h2>
+					<p>The events for the Leeds Digital Festival are taking place at locations across the city. The map below gives you a guide as to where to find each location.</p>
+				</div>
+				
+					<p>
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=53.801462,-1.55508&amp;spn=0.05069,0.085659&amp;z=13&amp;output=embed"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=53.801462,-1.55508&amp;spn=0.05069,0.085659&amp;z=13&amp;source=embed" style="color:#0000FF;text-align:left">View a full map</a>
+
+					</p>
+				
+			</div>
+CONTENT_0
+WAITCONTENT_1:
+			<div class="block">
+								
+				<div class="post-title">
+					<h2>Foursquare</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+					<p>We've a series of checkins and badges exclusive to Festival goers coming up - watch this space for details.
+					</p>
+				
+			</div>
+WAITCONTENT_1
+INCLUDE_0: about_nav.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -1,0 +1,63 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Would Like to Meet...
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Would Like to Meet...</h2>
+					<p><span>14th November 2011</span> The Lazy Lounge</p>
+				</div>
+				
+<p>We all know what it's like. You deliver the pitch, win the job and then your usual camera operator, sound recordist or producer isn't free for your dates. Arghhhh! What do you do? Who do you call? Where do you go?</p>
+
+<p>Digital agencies and production companies - look no further.</p>
+
+<p>With a wealth of crew, facility houses and digital filmmakers in Leeds working across viral, online, commercial and online content this event will give you the opportunity to meet crews in an informal atmosphere ready for your next project.</p>
+
+<p>And crews: come and meet the agencies who could be your future employers!</p>
+
+<p>Who would YOU like to meet?</p>
+
+
+		
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>14th November 2011<br />
+<strong>Time: </strong>Details coming soon<br />
+<strong>Cost: </strong>Details coming soon<br />
+<strong>Where to get tickets: </strong><a href="http://leedsdigitalfestivalwouldliketomeet.eventbrite.com/">Eventbrite</a><br />
+<strong>Organised by: </strong>Nicky Ball
+</p>
+</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=1896909647682271767&q=Lazy+Lounge,+Wellington+Street,+Leeds&hl=en&sll=53.795784,-1.553288&sspn=0.006295,0.006295&ie=UTF8&ll=53.801069,-1.569779&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">The Lazy Lounge</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1cd0b5e4cd60444&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1cd0b5e4cd60444&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

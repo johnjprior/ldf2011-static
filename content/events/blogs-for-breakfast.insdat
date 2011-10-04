@@ -1,0 +1,67 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Blogs for Breakfast
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Blogs for Breakfast</h2>
+					<p><span>13th October 2011, 9:00AM</span> 	
+Engine House Cafe</p>
+				</div>
+				
+	
+<p>Celebrating a month highlighting mental health and wellbeing across Leeds, Leeds Digital Festival is joining forces with Love Arts Leeds to explore the digital approach to health and networking.</p>
+<p>Our breakfast is for bloggers, techies and social media fans as well as people using and working in mental health services, to debate how digital media is affecting how we communicate about mental health and wellbeing both personally and professionally:</p>
+
+<ul>
+<li>Blogging about personal experiences</li>
+<li>Campaigning on Facebook</li>
+<li>Personal and professional identities on Twitter</li>
+</ul>
+
+<p>Join our expert panel, chaired by Mike Chitty (Enterprise and community professional, social media user and connector) for a lively discussion and lots of shared learning.</p>
+
+<p>This is a free, ticketed event and includes a free breakfast.</p>
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>13th October 2011<br />
+<strong>Time: </strong>09:00AM - 11:00AM<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong>Call 0113 30 56621 or visit <a href="http://blogsforbreakfast.eventbrite.com/">Eventbrite</a><br />
+<strong>Links: </strong><a href="https://www.facebook.com/event.php?eid=248594438515953">Facebook event page</a><br />
+<strong>Organised by: </strong><a href="http://loveartsleeds.co.uk/">Love Arts Leeds</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=6975405467356717839&q=engine+house+cafe,+leeds&hl=en&sll=53.79136,-1.552022&sspn=0.018213,0.00638&ie=UTF8&ll=53.802476,-1.585035&spn=0.000025,0.000043&t=m&z=15&vpsrc=0">Engine House Cafe</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae5afdbfdb03493e3&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae5afdbfdb03493e3&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

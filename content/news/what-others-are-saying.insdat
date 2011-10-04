@@ -1,0 +1,75 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: What others are saying
+SUB_PAGE: yes
+CONTENT_REVERSE: Yes
+CONTENT_1:
+			<div class="block">
+				
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+
+				<div class="post-title">
+					<h2>What others are saying</h2>
+					<p>&nbsp;</p>
+				</div>
+<p>The digital community in Leeds is an active and vocal one. Here's a selection of the things that people are writing about Leeds Digital Festival.</p>
+<p>You'll also find more conversations on <a href="http://twitter.com/search?q=%23ldf2011">Twitter with the hashtag #ldf2011</a>, and on <a href="http://www.facebook.com/leeds.digital.festival">our Facebook page</a></p>.
+				
+			</div>
+CONTENT_1
+CONTENT_0:
+<div class="block">
+
+
+			<h2>External links</h2>
+
+
+			<ul class="nav link-block">
+				<li><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/central-leeds/leeds_digital_festival_computer_fans_go_back_to_basics_at_games_night_1_3782749" class="block">
+					<span>Yorkshire Evening Post</span> with a write-up about Get Into Gaming
+				</a></li>
+				<li><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/central-leeds/digitally_leeds_top_tweeter_to_be_honoured_at_awards_1_3764642" class="block">
+					<span>Yorkshire Evening Post</span> with the news of the Digitally Leeds awards
+				</a></li>
+				<li><a href="http://siwilson.wordpress.com/2011/08/24/sociality/" class="block">
+					<span>Si Wilson</span> on Sociality and the Leeds Digital Lunches
+				</a></li>
+			</ul>
+			<ul class="nav link-block">
+				<li><a href="http://theculturevulture.co.uk/blog/reviews/sociality/" class="block">
+					<span>The Culture Vulture</span> on Sociality 
+				</a></li>
+				<li><a href="http://themagicsquarefoundation.wordpress.com/2011/08/18/leeds-digital-festival-sociality/" class="block">
+					<span>Elly Snare</span> on Sociality 
+				</a></li>
+				<li><a href="http://socialsimplicity.blogspot.com/2011/08/sociality-leeds-digital-festival-170811.html" class="block">
+					<span>Social Simplicity</span> on Sociality 
+				</a></li>
+			</ul>
+			<ul class="nav link-block">
+				<li><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/central-leeds/brand_launch_for_2011_leeds_digital_festival_1_3675962" class="block">
+					<span>Yorkshire Evening Post</span> and their report on our brand launch
+				</a></li>
+				<li><a href="http://www.epiphanysolutions.co.uk/blog/get-involved-with-leeds-digital-festival-2011/" class="block">
+					<span>Gaz Battersby</span> one of the winning brand design team, on getting involved with the Festival 
+				</a></li>
+				<li><a href="http://siwilson.wordpress.com/2011/06/13/the-leeds-digital-festival-how-it-got-here-and-where-it-could-go-now/" class="block">
+					<span>Si Wilson</span> on the history and future of the Festival
+				</a></li>
+			</ul>
+			<ul class="nav link-block">
+				<li><a href="http://numiko.com/blog/2011/leeds-digital-festival/" class="block">
+					<span>Numiko</span> on getting involved with the Festival
+				</a></li>
+			</ul>
+		</div>
+CONTENT_0
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

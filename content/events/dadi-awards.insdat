@@ -1,0 +1,54 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: The DADI Awards
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>The DADI Awards</h2>
+					<p><span>11th November 2011, 7:00PM</span> Saviles (Royal Armouries)</p>
+				</div>
+<p>The DADIs (The Drum awards for the digital industries) recognise and reward digital excellence. These awards are open to any business, including agencies and clients, who are producing effective digital strategies. Bringing together individuals and companies at the forefront of digital and providing the opportunity for those entering to prove how good they are.</p>
+<p>The Dadi awards ceremony brings together the elite of the UK's digital industry to celebrate and reward their successes over the past year.</p>
+<p>The event is not only an awards presentation but it provides suppliers to the digital industry with the perfect platform to network with potential clients and those they wish to do business with.</p>
+
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>11th November 2011<br />
+<strong>Time: </strong>7:00PM - 1:00AM<br />
+<strong>Cost: </strong>Single tickets: &pound;145 + VAT,Table 10: &pound;1390 + VAT, Table 12: &pound;1598 + VAT<br />
+<strong>Where to get tickets: </strong><a href="http://www.dadiawards.com/book">DADI Awards tickets</a><br />
+<strong>Links: </strong><a href="http://www.dadiawards.com/">DADI Awards website</a><br />
+<strong>Organised by: </strong><a href="http://www.thedrum.co.uk/">The Drum</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=8659683119296520776&q=Saviles+Hall&hl=en&sll=53.791512,-1.532555&sspn=0.006295,0.006295&ie=UTF8&ll=53.797077,-1.549051&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Saviles (Royal Armouries)</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae58b926b4e026803&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae58b926b4e026803&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

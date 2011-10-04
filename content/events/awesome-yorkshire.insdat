@@ -1,0 +1,68 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Leeds Digital Lunches: Awesome Yorkshire
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Leeds Digital Lunches: Awesome Yorkshire</h2>
+					<p><span>30th November 2011, 12:15PM</span> The Adelphi</p>
+				</div>
+				
+<p>The Leeds digital lunches were set up by Si Wilson with these simple rules in mind:</p>
+<p>
+<ol>
+<li>Choose a topic.</li>
+<li>Gather together a panel of the brightest brains from Leeds that can discuss that topic.</li>
+<li>Invite an audience.</li>
+<li>Let the panel talk for an hour.</li>
+</ol>
+</p>
+<p>The aim of the events is to show off the digital minds in the city and for the audience to be either informed, educated, or entertained in an informal environment.</p>
+<p>The first four events have proved to be an overwhelming success. Every event has sold out. For the most recent two events all of the 100 tickets were gone in less than a day.</p>
+<p>In November we won’t just be doing one lunch, we will be doing one a week. Every Wednesday during the digital festival there will be a Leeds digital lunch at the Adelphi.</p>
+<p>Who are they are for? In theory anyone. Whether you work for a digital agency, work for a business that has a digital need, a student wanting to learn, or someone who is just curious join us in the upstairs room at the Adelphi to hear the experts speak on the chosen topic.</p>
+<p>Up-to-date and full details on the panel for this event can be found by visiting the Eventbrite ticket page.</p>
+<p>The event is strictly by ticket only, and these events tend to sell out quickly. You are advised to book early.</p>
+<p><em>Please note: despite being a lunchtime event to keep the ticket costs low food and drink is not provided.</em></p>
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>30th November 2011<br />
+<strong>Time: </strong>12:15PM - 1:45PM<br />
+<strong>Cost: </strong>&pound;2 per ticket<br />
+<strong>Where to get tickets: </strong><a href="http://www.eventbrite.com/event/2243626748">Eventbrite</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/IdleSi"><span>Si Wilson</a> and <a href="http://twitter.com/#!/leannebuchan">Leanne Buchan</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=7101147882024298324&q=The+Adelphi,+Hunslet+Road,+Leeds&hl=en&sll=53.793328,-1.54109&sspn=0.013182,0.032015&ie=UTF8&ll=53.804529,-1.574092&spn=0.000025,0.000043&t=m&z=15&vpsrc=0">The Adelphi</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca1ca1d4a0b1ebc&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca1ca1d4a0b1ebc&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

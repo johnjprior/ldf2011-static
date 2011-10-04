@@ -1,0 +1,54 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Analogue / Digital Processing: Material Surfaces 
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Analogue / Digital Processing: Material Surfaces</h2>
+					<p><span>18th November 2011, 10:00AM</span> Leeds College of Art and Design</p>
+				</div>
+				
+<p>An exhibition of ‘in progress’ 3D outcomes from the workshop in Analogue / Digital Processing: Material Surfaces. Led by visiting designers Prof. Steffi Hußlein and Rob Laux (Magdeberg/Berlin) with Dan Robinson and Cheryl Huntbach (BA (hons) Art & Design Interdisciplinary, LCA), workshop participants are using new technologies to explore generative drawing on a range of material surfaces and to expand their grasp of generative design.</p> 
+
+<p>The work in this exhibition has been created in software using ‘Processing’, an open source authoring environment, to generate CNC files. Machinery driven by CNC files is widespread and provides a wide range of processing possibilities. A simple CNC router can drill, grind, paint, scratch, polish, and manipulate analogue surface and material. This workflow allows a wide range of "output", possibilities and artistic freedom.</p>
+		
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>18th November 2011<br />
+<strong>Time: </strong>10:00AM - 4:00PM<br />
+<strong>Cost: </strong>Details coming soon<br />
+<strong>Where to get tickets: </strong>Details coming soon<br />
+<strong>Organised by: </strong><a href="http://www.danrobinson.org.uk/">Dan Robinson</a>
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=16974749547947121208&q=Leeds+College+of+Art,+Leeds&hl=en&sll=53.808716,-1.551851&sspn=0.013177,0.032015&ie=UTF8&ll=53.819833,-1.584864&spn=0.000025,0.000043&t=m&z=15&vpsrc=0">Leeds College of Art and Design</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1cd236e411ab3cb&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1cd236e411ab3cb&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

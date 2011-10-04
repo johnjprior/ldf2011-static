@@ -1,0 +1,36 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: Leeds Digital Festival calls for creatives to join its brand design day
+SUB_PAGE: YES
+CONTENT_0:
+			<div class="block">
+
+					
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+				<div class="post-title">
+					<h2>Leeds Digital Festival calls for creatives to join its brand design day</h2>
+					<p><span>28th March 2011</span> by Adrian Johnson</p>
+				</div>
+<p>Leeds Digital Festival, a month-long celebration of the region’s digital sector, is using this year’s collaborative ‘Get Involved’ theme by crowdsourcing certain elements of the event – the first part will be the Festival’s creative identity which will be designed in a day.</p>
+<p>The aim of the festival, which now in its fourth year attracting thousands of participants, is to promote the work and talent the city has to offer, from urban artists, digital practitioners, students, freelancers and other collaborators.</p>
+<p>For the first time, creatives at some of the city’s leading design agencies and the city’s freelance community will be donating a day of their time free of charge and will be joined on Saturday 16 April by design students from the city’s colleges and universities. Together they will form creative teams, working together to design the festival identity in a single day.</P>
+<p>Last year’s identity was created by Thompson Brand Partners and organisers anticipate that the crowdsourced design day challenge for the 2011 Leeds Digital Festival will result in submissions from more than 20 creative collaborations. </p>
+<p>A panel of experts will judge the entries on the day and shortlist the top three designs, which will then be put forward into a public vote to decide the winner. 
+Si Wilson, organiser at Leeds Digital Festival, said: “This year's Festival is a fantastic opportunity for the people of Leeds to see that the barrier between the real and the digital world is vanishing – digital is a part of our everyday lives. </p>
+<p>“The crowdsourcing design day is the first step in getting this year's festival going, giving the city's creatives a chance to come together for a day, to get involved, to work with people they normally compete against, and to have a great time creating the identity for this year's festival.”</p>
+<p>The Festival brief includes the design of new brand collateral, including logos, fonts and brand guidelines, but also the implementation and development of the brand to show how it can be applied across a range of platforms.</p>
+
+				
+				
+			</div>
+CONTENT_0
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -1,0 +1,63 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: CheckIn CheckOff 
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>CheckIn CheckOff </h2>
+					<p><span>20th November 2011, 12:00PM</span></p>
+				</div>
+				
+<p>CheckIn CheckOff is Leeds’ biggest digital adventure. Teams will need to use their skills, imagination and smartphones to uncover six top secret locations, successfully complete creative tasks & arrive ready for the final challenge at destination six ...!</p>
+
+<p>To compete, teams will need:</p>
+<ul>
+<li>4-5 members</li>
+<li>To be digitally savvy</li>
+<li>A smartphone</li>
+<li>Access to Twitter, Foursquare, QR code apps etc. (more info on website – coming soon)</li>
+<li>To have signed up for the event via the <a href="http://www.checkincheckoff.co.uk/">CheckIn CheckOff website</a></li>
+</ul>
+
+<p>Teams will unlock locations and creative tasks via check-ins. Creative tasks must be completed to earn points. To win, a team must have full points & be voted ‘best’ following completion of the final task. Hints coming soon!</p>
+		
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>20th November 2011<br />
+<strong>Time: </strong>12:00PM - 4:00PM<br />
+<strong>Cost: </strong>Details coming soon<br />
+<strong>Where to get tickets: </strong><a href="http://www.checkincheckoff.co.uk/">CheckIn CheckOff website</a><br />
+<strong>Links: </strong><a href="http://twitter.com/#!/chkinchkoff">@chkinchkoff on Twitter</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/amandakou">Amanda Kouwenhoven</a>	and <a href="http://twitter.com/#!/mocwoods">Martin Woods</a>	
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p>&nbsp;</p>
+				</div>
+<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+			</div>
+
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

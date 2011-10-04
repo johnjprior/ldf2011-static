@@ -1,0 +1,65 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Objets Perdus: Digital Art and Anti-Art
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Objets Perdus: Digital Art and Anti-Art</h2>
+					<p><span>29th October - 30th November 2011</span> Corn Exchange</p>
+				</div>
+
+<p>For the past year Yorkshire artist Stuart Wroe has produced a series of digital images whilst at Leeds’ Round Foundry. This exhibition, as part of Leeds Digital Festival, includes wall based gallery projected/screen based digital images and a selection of 2D wall mounted digital images, highlighting the wealth of innovative and experimental digital work created by the artist during the past year in Leeds.</p>
+<p>Every Saturday and every Sunday at 1:00PM - 1.30PM there will be an Exhibition in Focus talk. Join the artist for a tour of the exhibition. See these stunning images and talk to the artist about his work.</p>
+
+<p>The «OBJETS PERDUS» series featured here are best described as an existential form of digital art, making contemporary digital reference to some of the experimental techniques of avant-garde artists such as Man Ray (eg. solarisation, negative images and multiple exposures) and the philosophical underpinnings of the Dadaists and Surrealists.</p>
+
+<p>This first major exhibition of Stuart Wroe offers a chance to see work by an  artist whose subject is the power of the lost and overlooked objets trouvés that have lain neglected, hidden, abandoned for years, decades, centuries. </p>
+
+<p>The images manipulated digitally intensify the destabilising force of objets trouvé to give new life and create unique new works of art.  Through the digital process, the images are transformed to the extent that they cannot be recognised – turning Duchamp’s notion of ready-mades and objets trouvés inside out becoming objets perdus.</p>
+<p>They provoke a philosophical reaction in the viewer. Objets perdus are often dark, and have been described as disturbing. They depict, however, what is known by all people who live on a nodding everyday acquaintance with Nature, that in the midst of life, we are indeed in death, etc.. </p>
+<h3>Private Preview</h3>
+<p>There will be a private viewing on 28th October between 5:30PM and 8:30PM.</p>
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>29th October - 30th November 2011<br />
+<strong>Time: </strong>Corn Exchange opening times<br />
+<strong>Private viewing: </strong>28th October 2011, 5:30PM - 8:30PM (invitation only)<br />
+<strong>Special notes: </strong>1:00PM to 1:30PM, every Saturday and Sunday - guided tours of the exhibition by the artist<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong>Just turn up at the Corn Exchange<br />
+<strong>Links: </strong><a href="http://wrophotomontage.wordpress.com/2011/08/31/exhibition-leeds-corn-exchange-1-30-november-2011/">Artist's article on the exhibition</a><br />
+<strong>Organised by: </strong><a href="http://wrophotomontage.wordpress.com">Stuart Wroe</a></p>							
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?ftid=0x48795c19be94edcd:0xd117d14cb76aa4c4&q=Corn+Exchange,+Leeds&hl=en&sll=53.795991,-1.540203&sspn=0.006295,0.006295&ie=UTF8&ll=53.801399,-1.556711&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Corn Exchange</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce9a4656821631&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce9a4656821631&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

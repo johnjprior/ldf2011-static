@@ -1,0 +1,53 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Service Design
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Service Design</h2>
+					<p><span>29th November 2011, 6:30PM</span> Millenium Square</p>
+				</div>
+				
+<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>29th November 2011<br />
+<strong>Time: </strong>6:30PM<br />
+<strong>Cost: </strong>Free<br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/mattedgar">Matt Edgar</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?ftid=0x48795c1ce33fff99:0xbb74d6c1cb3b70a0&q=Millennium+Square&hl=en&sll=53.801234,-1.548235&sspn=0.006295,0.006295&ie=UTF8&ll=53.806797,-1.564736&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Millenium Square</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce78b2b2cd76d7&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce78b2b2cd76d7&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

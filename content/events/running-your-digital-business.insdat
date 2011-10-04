@@ -1,0 +1,24 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Running your Digital Business as a Business
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Running your Digital Business as a Business</h2>
+					<p><span>Cancelled</span></p>
+				</div>
+				
+<p>This event will no longer be taking place - we're sorry for any disappointment that this may have caused you.</p>
+
+	
+			</div>
+CONTENT_0
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

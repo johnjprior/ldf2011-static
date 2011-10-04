@@ -1,0 +1,35 @@
+LH_BLOCK:
+		<div class="block">
+		
+			<h1 class="shadow">Leeds Digital Festival</h1>
+		
+			<ul class="block nav site-nav">
+				<li class="current"><a href="http://dl.dropbox.com/u/2629908/ldf/inner.html#">
+					<span>About</span> the festival
+				</a></li>
+				<li><a href="http://dl.dropbox.com/u/2629908/ldf/inner.html#">
+					<span>Events</span> during the festival
+				</a></li>
+				<li><a href="http://dl.dropbox.com/u/2629908/ldf/inner.html#">
+					<span>Blog</span> about digital Leeds
+				</a></li>
+			</ul>
+		
+			<p>Leeds Digital Festival is a celebration across the city throughout November, demonstrating how Leeds embraces and utilises digital in all its forms.</p>
+			
+			<p>Starting on November 1st there will be a host of events, shows, lectures and meet-up to bring the digital community together.</p>
+		
+			<ul class="block nav site-nav">
+				<li><a href="http://dl.dropbox.com/u/2629908/ldf/inner.html#">
+					<span>Twitter</span> @ldsdigital
+				</a></li>
+				<li><a href="http://dl.dropbox.com/u/2629908/ldf/inner.html#">
+					<span>Facebook</span> Let’s be friends
+				</a></li>
+				<li><a href="http://dl.dropbox.com/u/2629908/ldf/inner.html#">
+					<span>Email</span> Get involved
+				</a></li>
+			</ul>
+		
+		</div>
+LH_BLOCK

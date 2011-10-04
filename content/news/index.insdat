@@ -1,0 +1,71 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: News
+CONTENT_REVERSE: Yes
+CONTENT_4:
+			<div class="block">
+				
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+
+				<div class="post-title">
+					<a href="new-digital-awards-for-leeds.html" class="heading"><h2>New Awards Ceremony for Leeds Digital Festival</h2></a>
+					<p><span>13th September 2011</span> by Adrian Johnson</p>
+				</div>
+<p>A new awards ceremony to celebrate the digital talent in Leeds launches today as part of this year’s Leeds Digital Festival.</p>
+
+<p><a href="new-digital-awards-for-leeds.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_4
+CONTENT_3:
+			<div class="block">
+				
+				<div class="post-title">
+					<a href="ldf2011-brand-revealed.html" class="heading"><h2>The Pixels have it: Team B win the vote</h2></a>
+					<p><span>12th August 2011</span> by Adrian Johnson</p>
+				</div>
+
+				<p>This year’s Leeds Digital Festival, a month-long celebration of the region’s digital sector, kicked off today with the launch of the new festival identity which was chosen by a public vote following a collaborative design competition between the region’s creatives and design students.</p>
+<p><a href="ldf2011-brand-revealed.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_3
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<a href="ldf2011-sociality-announced.html" class="heading"><h2>Leeds Digital Festival announces Sociality</h2></a>
+					<p><span>25th July 2011</span> by Adrian Johnson</p>
+				</div>
+<p>The second of four free seminars for local businesses in Yorkshire has been announced by organisers of this year’s Leeds Digital Festival – following a successful event on search engine optimisation attended by almost 100 people this month, the August event will look at social media.</p>
+<p><a href="ldf2011-sociality-announced.html" class="btn more">Read more</a></p>				
+			</div>
+CONTENT_2
+CONTENT_1:
+			<div class="block">
+										<div class="post-title">
+					<a href="ldf2011-digital-lunches-launched.html" class="heading"><h2>Leeds Digital Festival launches Leeds Digital Lunches</h2></a>
+					<p><span>6th July 2011</span> by Adrian Johnson</p>
+				</div>
+<p>Plans for this year’s Leeds Digital Festival, a month-long celebration of the region’s digital sector, are taking shape with the announcement of four free seminars for local businesses in the run-up to November’s event.</p>				
+<p><a href="ldf2011-digital-lunches-launched.html" class="btn more">Read more</a></p>				</div>
+CONTENT_1
+CONTENT_0:
+			<div class="block">
+						
+				<div class="post-title">
+					<a href="ldf2011-brand-competition.html" class="heading"><h2>Leeds Digital Festival calls for creatives to join its brand design day</h2></a>
+					<p><span>28th March 2011</span> by Adrian Johnson</p>
+				</div>
+				
+<p>Leeds Digital Festival, a month-long celebration of the region’s digital sector, is using this year’s collaborative ‘Get Involved’ theme by crowdsourcing certain elements of the event – the first part will be the Festival’s creative identity which will be designed in a day.</p>
+<p><a href="ldf2011-brand-competition.html" class="btn more">Read more</a></p>				
+			</div>
+CONTENT_0
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

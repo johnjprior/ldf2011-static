@@ -1,0 +1,171 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: about
+NAV_NAME: About
+NAME: Contributors
+SUB_PAGE: yes
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/about/"><strong class="page-tag">About</strong></a>
+				
+				<div class="post-title">
+					<h2>Contributors</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>Any festival is built upon the talent and time of the people helping out. Leeds Digital Festival is utterly beholden to the people and organisations listed here.</p>
+<p>(Have we missed <strong>you</strong> out? We're mortified, seriously. <a href="/about/contact-us.html">Let us know</a> so we can get it fixed.)</p>
+</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+									<div class="post-title">
+					<h2>Individuals</h2>
+					<p>These people have all given of their time, energy, skills and experience to make Leeds Digital Festival possible - we're incredibly grateful to all of them.</p>
+				</div>
+				<p>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/adamburnspr"><span>Adam Burns</span><img src="/img/contributors/adamburns.jpg"></a></li>
+<li><a href="http://twitter.com/#!/adrian_johnson"><span>Adrian Johnson</span><img src="/img/contributors/Adrian_Johnson.jpg"></a></li>
+<li><a href="http://twitter.com/#!/alexcraven"><span>Alex Craven</span><img src="/img/contributors/alexcraven.png"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/alwightman"><span>Al Wightman</span><img src="/img/contributors/Al_Wightman.png"></a></li>	
+<li><a href="http://twitter.com/#!/amandakou"><span>Amanda Kouwenhoven</span><img src="/img/contributors/amandakou.jpg"></a></li>
+<li><a href="http://twitter.com/#!/andrewcritchett"><span>Andrew Critchett</span><img src="/img/contributors/andrewcritchett.jpg"></a></li>	
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/The_Machin"><span>Andrew Machin</span><img src="/img/contributors/The_Machin.jpg"></a></li>		
+<li><a href="http://twitter.com/#!/biglittlethings"><span>Ash Mann</span><img src="/img/contributors/biglittlethings.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/benn99"><span>Benjamin Brady</span><img src="/img/contributors/benn99.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/Caius"><span>Caius Durling</span><img src="/img/contributors/caius.png"></a></li>	
+<li><a href="http://twitter.com/#!/craigwillis85"><span>Craig Willis</span><img src="/img/contributors/craigwillis.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/darrenscotland"><span>Darren Scotland</span><img src="/img/contributors/darrenscotland.png"></a></li>		
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/daveeccles"><span>Dave Eccles</span><img src="/img/contributors/daveeccles.jpg"></a></li>
+<li><a href="http://twitter.com/#!/thehodge"><span>Dom Hodgson</span><img src="/img/contributors/thehodge.jpg"></a></li>
+<li><a href="http://twitter.com/#!/ebsnare"><span>Eleanor Snare</span><img src="/img/contributors/ebsnare.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/em606"><span>Emma Harvey</span><img src="/img/contributors/em606.jpg"></a></li>
+<li><a href="http://twitter.com/#!/iamgaz"><span>Gaz Battersby</span><img src="/img/contributors/iamgaz.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/georgiahalston"><span>Georgia Halston</span><img src="/img/contributors/georgiahalston.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/eyetracking"><span>Guy Redwood</span><img src="/img/contributors/eyetracking.jpg"></a></li>
+<li><a href="http://twitter.com/#!/hannahbackhouse"><span>Hannah Backhouse</span><img src="/img/contributors/hannahbackhouse.jpg"></a></li>
+<li><a href="http://twitter.com/#!/csswizardry"><span>Harry Roberts</span><img src="/img/contributors/csswizardry.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+
+<li><a href="http://twitter.com/#!/anatomic"><span>Ian Thomas</span><img src="/img/contributors/anatomic.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/imran"><span>Imran Ali</span><img src="/img/contributors/imran.png"></a></li>
+<li><a href="http://twitter.com/#!/jamie_mchale"><span>Jamie McHale</span><img src="/img/contributors/jamie_mchale.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/jenlittlebird"><span>Jen Holmes</span><img src="/img/contributors/jenlittlebird.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/jimmoran"><span>Jim Moran</span><img src="/img/contributors/jimmoran.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/johnpopham"><span>John Popham</span><img src="/img/contributors/johnpopham.png"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/johnjprior"><span>John Prior</span><img src="/img/contributors/johnjprior.JPG"></a></li>
+<li><a href="http://twitter.com/#!/karen_lewis"><span>Karen Lewis</span><img src="/img/contributors/karen_lewis.jpg"></a></li>
+<li><a href="http://twitter.com/#!/kristalsmile"><span>Kristal Ireland</span><img src="/img/contributors/kristalsmile.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/leannebuchan"><span>Leanne Buchan</span><img src="/img/contributors/leannebuchan.png"></a></li>	
+<li><a href="http://twitter.com/#!/lindabroughton"><span>Linda Broughton</span><img src="/img/contributors/lindabroughton.jpg"></a></li>
+<li><a href="http://twitter.com/#!/lisawisniowski"><span>Lisa Wisniowski</span><img src="/img/contributors/lisawisniowski.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/luluartist"><span>Lucy Bannister</span><img src="/img/contributors/luluartist.jpg"></a></li>
+<li><a href="http://twitter.com/#!/mocwoods"><span>Martin Woods</span><img src="/img/contributors/mocwoods.png"></a></li>
+<li><a href="http://twitter.com/#!/mattedgar"><span>Matt Edgar</span><img src="/img/contributors/mattedgar.png"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/mattpallatt"><span>Matt Pallatt</span><img src="/img/contributors/mattpallatt.jpg"></a></li>
+<li><a href="http://twitter.com/#!/mattseward"><span>Matt Seward</span><img src="/img/contributors/mattseward.png"></a></li>	
+<li><a href="http://twitter.com/#!/elasticleeds"><span>Matt Wildin</span><img src="/img/contributors/elasticleeds.png"></a></li>	
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/mikechitty"><span>Mike Chitty</span><img src="/img/contributors/mikechitty.jpg"></a></li>
+<li><a href="http://twitter.com/#!/monicatailor"><span>Monica Tailor</span><img src="/img/contributors/monicatailor.jpg"></a></li>
+<li><a href="http://twitter.com/#!/makeusabrew"><span>Nick Payne</span><img src="/img/contributors/makeusabrew.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/yorkshiretexan"><span>Nicole Barbosa</span><img src="/img/contributors/yorkshiretexan.jpg"></a></li>
+<li><a href="http://twitter.com/#!/anthonylime"><span>Paul Lemon</span><img src="/img/contributors/anthonylime.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/PaulJNapier "><span>Paul Napier</span><img src="/img/contributors/PaulJNapier .jpg"></a></li>	
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/paulruk"><span>Paul Rayment</span><img src="/img/contributors/paulruk.png"></a></li>	
+<li><a href="http://twitter.com/#!/sovietuk"><span>Rick Harrison</span><img src="/img/contributors/sovietuk.jpg"></a></li>
+<li><a href="http://twitter.com/#!/rosiedriver"><span>Rosie Driver</span><img src="/img/contributors/rosiedriver.jpg"></a></li>	
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/sevik"><span>Sean Parker</span><img src="/img/contributors/sevik.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/Banouby"><span>Simon Banoub</span><img src="/img/contributors/banouby.jpg"></a></li>
+<li><a href="http://twitter.com/#!/IdleSi"><span>Si Wilson</span><img src="/img/contributors/IdleSi.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/steveharrison00"><span>Steve Harrison</span><img src="/img/contributors/steveharrison00.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/stuartpt"><span>Stuart P. Turner</span><img src="/img/contributors/stuartpt.jpg"></a></li>	
+<li><a href="http://twitter.com/#!/tobinharris"><span>Tobin Harris</span><img src="/img/contributors/tobinharris.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://twitter.com/#!/loveartsleeds"><span>Victoria Betton</span><img src="/img/contributors/loveartsleeds.jpg"></a></li>
+</ul>
+</p>
+
+</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+									<div class="post-title">
+					<h2>Organisations</h2>
+					<p>These organisations have all supported the festival by providing either venues, staff time, expertise, or other contributions. We're grateful to them, too.</p>
+				</div>
+				<p>
+<ul class="nav link-block">
+<li><a href="http://www.theadelphileeds.co.uk/"><span>The Adelphi</span><img src="/img/contributors/adelphi.png"></a></li>
+<li><a href="http://www.bloommedia.co.uk/"><span>Bloom Media</span><img src="/img/contributors/bloommedia.jpg"></a></li>
+<li><a href="http://www.enjoy-digital.co.uk/"><span>Enjoy Digital</span><img src="/img/contributors/enjoydigital.png"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://www.epiphanysolutions.co.uk"><span>Epiphany</span><img src="/img/contributors/epiphany.jpg"></a></li>
+<li><a href="http://www.leeds.gov.uk"><span>Leeds City Council</span><img src="/img/contributors/leedscc.jpg"></a></li>
+<li><a href="http://www.leedsmedia.co.uk"><span>Leeds Media</span><img src="/img/contributors/leedsmedia.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://www.leedsmet.ac.uk/"><span>Leeds Met</span><img src="/img/contributors/leedsmet.jpg"></a></li>
+<li><a href="http://www.madebypi.co.uk/home/"><span>Made By Pi</span><img src="/img/contributors/madebypi.png"></a></li>
+<li><a href="http://www.marketingleeds.com"><span>Marketing Leeds</span><img src="/img/contributors/marketingleeds.png"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://www.midnightbell.co.uk"><span>The Midnight Bell</span><img src="/img/contributors/midnightbell.jpg"></a></li>
+<li><a href="http://www.ntileeds.co.uk"><span>nti Leeds</span><img src="/img/contributors/ntileeds.jpg"></a></li>
+<li><a href="http://numiko.com/"><span>Numiko</span><img src="/img/contributors/numiko.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://www.operanorth.co.uk"><span>Opera North</span><img src="/img/contributors/operanorth.jpg"></a></li>
+<li><a href="http://www.optasports.com/"><span>Opta</span><img src="/img/contributors/opta.png"></a></li>
+<li><a href="http://www.roundfoundry.net/"><span>Round Foundry</span><img src="/img/contributors/roundfoundry.jpg"></a></li>
+</ul>
+<ul class="nav link-block">
+<li><a href="http://www.stickyeyes.com/"><span>Stickyeyes</span><img src="/img/contributors/stickyeyes.jpg"></a></li>
+<li><a href="http://twentysixdigital.com/"><span>twentysix</span><img src="/img/contributors/twentysix.png"></a></li>
+<li><a href="http://www.umpf.co.uk"><span>Umpf</span><img src="/img/contributors/umpf.png"></a></li>
+</ul>
+</p>
+</div>
+CONTENT_2
+INCLUDE_0: about_nav.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

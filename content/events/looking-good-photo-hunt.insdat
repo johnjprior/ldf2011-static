@@ -1,0 +1,53 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Looking Good Holbeck & Besston Photo Hunt
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Looking Good Holbeck & Besston Photo Hunt</h2>
+					<p><span>26th November 2011, 12:00PM</span> </p>
+				</div>
+				
+<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>Details coming soon<br />
+<strong>Time: </strong>12:00PM - 3:00PM<br />
+<strong>Cost: </strong>Details coming soon<br />
+<strong>Where to get tickets: </strong>Details coming soon<br />
+<strong>Organised by: </strong>Details coming soon</p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p>&nbsp;</p>
+				</div>
+<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+			</div>
+
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

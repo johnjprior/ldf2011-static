@@ -1,0 +1,670 @@
+@charset "UTF-8";
+/*------------------------------------*\
+	CONTENTS
+\*------------------------------------*/
+/*
+RESET
+SHARED
+CLEARFIX
+FONT-FACE
+MAIN
+HEADER
+PAGE
+FOOTER
+NAV
+BLOCKS
+TYPE
+BUTTONS
+EVENT-CALENDAR
+TABLES
+SPRITES
+MISC
+EDIT-MODE
+RESPONSIVE
+*/
+
+
+
+
+
+/*------------------------------------*\
+	$RESET
+\*------------------------------------*/
+html,body,div,span,applet,object,iframe,
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,
+a,abbr,acronym,address,big,cite,code,
+del,dfn,em,img,ins,kbd,q,s,samp,
+small,strike,strong,sub,sup,tt,var,
+b,u,i,center,
+dl,dt,dd,ol,ul,li,
+fieldset,form,label,legend,
+table,caption,tbody,tfoot,thead,tr,th,td,
+article,aside,canvas,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section,summary,
+time,mark,audio,video{
+	margin:0;
+	padding:0;
+}
+article,aside,details,figcaption,figure,footer,
+header,hgroup,menu,nav,section{
+	display: block;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img{
+	border:0;
+}
+address,caption,cite,dfn,th,var{
+	font-style:normal;
+	font-weight:normal;
+}
+caption,th{
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size:100%;
+	font-weight:normal;
+}
+q:before,q:after{
+	content:'';
+}
+abbr,acronym{
+	border:0;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$SHARED
+\*------------------------------------*/
+.header,
+.page{
+    margin-bottom:50px;
+}
+
+a,dt,
+h1,h2,h3,h4,h5,h6,
+.event-cal caption,.event-time,.link-block span,
+.post-title span,.source{
+	color:#1bdd1d;
+}
+
+caption,
+.event-time{
+	font-size:1.166em; /* 14px */
+}
+
+h1,h2,h3,h4,h5,h6,
+.btn,.page-tag{
+	font-family:'04b19Regular', Impact, sans-serif;
+	text-transform:uppercase;
+	line-height:0.666;
+}
+
+.btn,.page-tag{
+	color:#fff;
+}
+
+.event-cal{
+	word-wrap:break-word;
+	-moz-hyphens:auto;
+	-webkit-hyphens:auto;
+	hyphens:auto;
+}
+
+.inlimg {
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.block,.post-title,.event-cal caption{
+	border:1px solid #1bdd1d;
+}
+
+html,
+.event-cal h1,.event-cal h2,.event-cal h3,.event-cal h4,.event-cal h5,.event-cal h6{
+	font-family:"Helvetica Neue", Arial, sans-serif;
+}
+.event-cal h1,.event-cal h2,.event-cal h3,.event-cal h4,.event-cal h5,.event-cal h6{
+	font-weight:bold;
+	text-transform:none;
+	line-height:1;
+}
+
+.s{
+	background-image:url(/img/css/sprites/sprite.png);
+}
+
+h1,h2,h3,h4,h5,h6,
+p,ul,ol,dl,table,hr,dd,blockquote,
+.block,.post-title{
+	margin-bottom:12px;
+	margin-bottom:1rem;
+}
+
+.event-cal .current span,
+.link-block .current a:before,
+.btn,.page-tag{
+	background-color:#1bdd1d;
+}
+
+.link-block span:after,
+dt:after,
+.post-title span:after{
+	content:" —";
+}
+
+
+
+
+
+/*------------------------------------*\
+	$CLEARFIX
+\*------------------------------------*/
+.cf:before,
+.cf:after,
+.nav:before,
+.nav:after,
+.page:before,
+.page:after,
+.pane:before,
+.pane:after{
+    content:"";
+    display:table;
+}
+
+.cf:after,
+.nav:after,
+.page:after,
+.pane:after{
+    clear:both;
+}
+
+.cf,
+.nav,
+.page,
+.pane{
+    zoom:1;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$FONT-FACE
+\*------------------------------------*/
+@font-face {
+	font-family:'04b19Regular';
+	src:url('fonts/04b_19__-webfont.eot');
+	src:local('☺'), url('fonts/04b_19__-webfont.woff') format('woff'), url('fonts/04b_19__-webfont.ttf') format('truetype'), url('fonts/04b_19__-webfont.svg#04b19Regular') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$MAIN
+\*------------------------------------*/
+html{
+	font-size:0.75em; /* 12px */
+	line-height:1.5; /* 18px */
+	color:#666;
+	background:url(/img/css/page/01.gif) fixed #fff;
+	background:url(/img/css/page/02.gif) fixed #fff;
+	min-height:100%;
+	padding:2%;
+	overflow-y:scroll;
+}
+
+
+
+
+
+
+/*------------------------------------*\
+	$HEADER
+\*------------------------------------*/
+.header{
+	width:32%;
+	margin-right:2%;
+	float:left;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$PAGE
+\*------------------------------------*/
+.page{
+	float:left;
+	width:66%;
+}
+.col{
+	float:left;
+	width:75%;
+	max-width:520px;
+	min-width:520px;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$FOOTER
+\*------------------------------------*/
+.footer{
+    clear:both;
+    margin-left:34%;
+}
+.small_footer {
+    clear:both;
+}
+
+
+
+
+/*------------------------------------*\
+	$NAV
+\*------------------------------------*/
+/*
+Abstraction, as per http://csswizardry.com/2011/09/the-nav-abstraction/
+*/
+.nav{
+	list-style:none;
+	margin-left:0;
+}
+.nav li{
+	display:inline;
+}
+.sp li{
+	margin-right: 20px;
+}
+.nav a{
+	display:inline-block;
+}
+.link-block li{
+	width:29.333%;
+	float:left;
+	padding-right:4%;
+}
+.link-block .block{
+	padding:1em 0 0;
+}
+.link-block a{
+	display:block;
+	color:#666;
+}
+	.link-block a:hover{
+		text-decoration:none;
+	}
+	.link-block a:hover span{
+		text-decoration:underline;
+	}
+.link-block span{
+	text-transform:none;
+	display:block;
+	font-weight:bold;
+}
+.link-block .current a{
+	text-decoration:none;
+}
+.link-block .current a:before{
+	content:"";
+	width:12px;
+	height:12px;
+	display:block;
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+
+
+/*------------------------------------*\
+	$BLOCKS
+\*------------------------------------*/
+.block{
+	padding:10px;
+	background-color:#fff;
+	border-width:1px 0 0;
+	position:relative;
+}
+.block > :last-child{
+	margin-bottom:0;
+}
+	.link-block.block{
+		padding:0;
+	}
+	td .block{
+		margin-bottom:36px;
+		margin-bottom:3rem;
+	}
+	td > .block:last-child{
+		margin:0;
+	}
+.page-tag{
+	float:right;
+	font-size:3em;
+	margin-top:-10px;
+	padding:0.2em 0.35em;
+}
+
+.flabel{
+	width: 80px;
+	float: left;
+}
+
+.signup{
+	margin-left: 14px;
+	bottom: 14px;
+}
+
+.fcontainer {
+	float: left;
+}
+.finner {
+	position:relative;
+	float: left;
+}
+
+.btncontainer {
+	position:relative;
+	float: right;
+}
+
+
+
+
+/*------------------------------------*\
+	$TYPE
+\*------------------------------------*/
+/*--- HEADINGS ---*/
+h1,.alpha{
+	font-size:7em; /* 84px */
+}
+h2,.beta{
+	font-size:4em; /* 48px */
+}
+h3,.gamma{
+	font-size:1.25em; /* 15px */
+}
+h3,.content{
+	font-size:2em;
+}
+h4,.delta{
+	font-size:1em; /* 16px */
+}
+h4{
+	font-weight:bold;
+}
+/*
+Post title takes format:
+
+<div class=post-title>
+	<h2>Title of post</h2>
+	<p>A blog post by <b>Name of poster</b></p>
+</div>
+*/
+.post-title{
+	border-width:0 0 1px;
+}
+.post-title h2{
+	margin:0;
+}
+
+/*--- LINKS ---*/
+a{
+	text-decoration:none;
+}
+	a:hover,
+	a:active,
+	a:focus{
+		text-decoration:underline;
+	}
+	.heading:hover{
+		text-decoration:none;
+	}
+/*--- LISTS ---*/
+ul,ol,blockquote{
+	margin-left:3em;
+}
+li > ul,
+li > ol{
+	margin-bottom:0;
+}
+
+/*--- QUOTES ---*/
+q{ quotes:'‘' '’' '“' '”'; }
+
+q:before{ content:'‘'; content:open-quote; }
+q:after{ content:'’'; content:close-quote; }
+
+q q:before{ content: '“'; content: open-quote; }
+q q:after{ content: '”'; content: close-quote; }
+
+blockquote{ quotes: '“' '”'; }
+blockquote p:before{ content: '“'; content: open-quote; }
+blockquote p:after{ content: ''; content: no-close-quote; }
+blockquote p:last-of-type:after{ content: '”'; content: close-quote; }
+
+blockquote{
+    text-indent:-0.4em;
+    margin-right:3em;
+}
+.source{
+    display:block;
+    text-indent:0;
+    margin-top:-18px;
+    margin-top:-1rem;
+}
+.source:before{
+    content:"—";
+}
+
+
+
+
+
+/*------------------------------------*\
+	$BUTTONS
+\*------------------------------------*/
+.btn{
+	display:inline-block;
+	padding:0.25em 0.5em;
+	border-top:2px solid #7ded7f;
+	font-size:2.5em;
+	
+	-moz-box-shadow:0 1px 0 #fff inset;
+	-webkit-box-shadow:0 1px 0 #fff inset;
+	box-shadow:0 1px 0 #fff inset;
+}
+    .btn:hover{
+        text-decoration:none;
+    }
+.btn.more:after{
+	content:" +";
+}
+.btn.less:after{
+	content:" -";
+}
+td .block .btn{
+	position:absolute;
+	right:10px;
+	bottom:-12px;
+}
+	td .block .btn:active,
+	td .block .btn:focus{
+		bottom:-13px;
+	}
+
+
+
+
+
+/*------------------------------------*\
+	$EVENT-CALENDAR
+\*------------------------------------*/
+.pane{
+	width:100%;
+	max-width:100%;
+	overflow:auto;
+	background:#fff;
+    background:rgba(255,255,255,0.75);
+    
+    /* IE7 is a dick... */
+    zoom:1;
+    position:relative;
+}
+.panels{
+	width:400%; /* This figure should be: 100 * <amount of tables>% */
+}
+.event-cal{
+	width:25%; /* This figure should be: 100 / <amount of tables>% */
+	border-top:1px solid #cecece;
+	float:left;
+	margin-bottom:0;
+}
+.event-cal col{
+	width:14.285%;
+}
+.event-cal caption{
+	border-width:1px 0 0 0;
+}
+.event-cal caption,
+.event-cal thead,
+.event-cal th{
+	background-color:#fff;
+}
+.event-cal caption,
+.event-cal th,
+.event-cal td{
+	padding:1em;
+	vertical-align:top;
+}
+.event-cal th span{
+	display:block;
+	float:left;
+	clear:left;
+    white-space:nowrap;
+    background-color:#fff;
+    padding:0 0.5em;
+}
+	.event-cal .current span{
+		color:#fff;
+	}
+
+.event-cal th{
+	background:url(/img/css/tables/splitter.gif) right top no-repeat;
+}
+.event-cal thead{
+	background-position:left top;
+}
+.event-cal h3{
+	margin-bottom:5px;
+}
+.event-cal h3 + hr{
+	margin:0;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$TABLES
+\*------------------------------------*/
+table{
+	width:100%;
+}
+caption{
+	line-height:1;
+}
+caption b{
+	display:block;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$SPRITES
+\*------------------------------------*/
+.s{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	position:relative;
+}
+.s.table-toggle{
+	width:12px;
+	height:8px;
+	background-position:0 0;
+}
+	.table-toggle{
+		float:right;
+	}
+
+
+
+
+
+/*------------------------------------*\
+	$MISC
+\*------------------------------------*/
+hr{
+	border:none;
+	padding:0;
+	margin-top:0;
+	border-top:1px solid #dde7b4;
+}
+
+.shadow{
+    text-shadow:
+    -1px -1px 0 #13c115,
+    -2px -2px 0 #13c115,
+    -3px -3px 0 #13c115,
+    -4px -4px 0 #13c115,
+    -5px -5px 0 #13c115;
+}
+::selection			{ background-color:#1bdd1d; color:#fff; }
+::-moz-selection	{ background-color:#1bdd1d; color:#fff; }
+
+
+
+
+
+/*------------------------------------*\
+	$EDIT-MODE
+\*------------------------------------*/
+html.edit .event-cal th,
+html.edit .event-cal td{
+	border:1px solid red;
+}
+
+
+
+
+
+/*------------------------------------*\
+	$RESPONSIVE
+\*------------------------------------*/
+@media screen and (max-width: 800px){
+html{
+	word-wrap:break-word;
+	-moz-hyphens:auto;
+	-webkit-hyphens:auto;
+	hyphens:auto;
+}
+}

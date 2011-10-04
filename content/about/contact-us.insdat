@@ -1,0 +1,73 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: about
+NAV_NAME: About
+NAME: Contact us
+SUB_PAGE: yes
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/about/"><strong class="page-tag">About</strong></a>
+				
+				<div class="post-title">
+					<h2>Contact us</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>There are several ways to keep in touch with what's going on with Leeds Digital Festival, other than using this site.</p>
+			<ul class="nav link-block">
+				<li><a href="http://twitter.com/#!/LDSDigital" class="block">
+					<span>Twitter</span> We're @ldsdigital - give us a shout
+				</a></li>
+				<li><a href="http://www.facebook.com/leeds.digital.festival" class="block">
+					<span>Facebook</span> Talk us either directly on Facebook, or leave a comment at the bottom of this page
+				</a></li>
+				<li><a href="/events/last-festival-meeting.html" class="block">
+					<span>Meet up in person</span> at our next pre-Festival meeting
+				</a></li>
+			</ul>
+
+<p>We also have a mailing list - you can use the form below to sign up to it.</p>
+				
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+		
+			<h2>Join our mailing list</h2>
+<form action="http://leedsdigitalfestival.us2.list-manage1.com/subscribe/post?u=b8f7986f69c6c2c7b80e134bd&amp;id=c66c4460b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">						    <fieldset>
+
+<div class="fcontainer">
+<div class="finner">
+        <p>
+
+            <label for="mce-FNAME" class="flabel">First name</label>
+            <input type=text class=text-input name="FNAME" id="mce-FNAME" />
+        </p>
+        <p>
+            <label for="mce-LNAME" class="flabel">Surname</label>
+            <input type=text class=text-input name="LNAME" id="mce-LNAME" />
+		</p>
+
+        <p>
+            <label for="mce-EMAIL" class="flabel">Email</label>
+            <input type=email class=text-input name="EMAIL" id="mce-EMAIL" />
+
+        </p>
+</div>
+		<div class="btncontainer">
+				<input type=submit class="btn signup" value="Sign up">
+			</div>
+</div>
+
+    </fieldset>
+			 <p>We promise that we won't use your details for any purpose than sending you emails about Leeds Digital Festival, and that you can unsubscribe at any time. Read our <a href="/privacy-policy/">Privacy Policy</a> if you want more information.</p>
+			</div>
+CONTENT_1
+FACEBOOK_COMMENTS: yes
+INCLUDE_0: about_nav.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -1,0 +1,57 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Northern Art Prize Evening Talks
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Northern Art Prize Evening Talks</h2>
+					<p><span>24th November 2011, 6:00PM</span> Leeds Art Gallery</p>
+				</div>
+				
+<p>Now in towns and cities across the north, an economic and cultural renaissance is transforming attitudes and confounding old stereotypes. Visual art has played a crucial role in that transformation and continues to be a significant part of our communities. Developments like the Baltic Centre For Contemporary Art, The Liverpool Biennial, The Yorkshire Sculpture Park and The Henry Moore Institute have consolidated artistic activity and continue to feed a growing appetite for contemporary visual arts.</p>
+
+<p>The time is right to recognise the contribution artists make to our society by rewarding the best creative talent in the region. By supporting artists of this generation, the Northern Art Prize hopes to encourage future generations and contribute to the establishment of the north as a place of imagination and excellence.</p>
+<p>This is the first in a series of four events meeting the exhibiting artists and their nominators at Tuesday evening talks at Leeds Art Gallery.</p>
+
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>24th November 2011<br />
+<strong>Time: </strong>6:00PM - 8:00PM<br />
+<strong>Cost: </strong>&pound;5 (&pound;3 concessions)<br />
+<strong>Where to get tickets: </strong>Places are limited and talks are popular so we recommend that you book in advance with Leeds Art Gallery on 0113 2478256<br />
+<strong>Organised by: </strong>Northern Art Prize (director: <a href="http://twitter.com/#!/pippahale">Pippa Hale</a>)</p>						
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=10564870444951868927&q=leeds+art+gallery&hl=en&sll=53.799857,-1.54839&sspn=0.006295,0.006295&ie=UTF8&ll=53.805263,-1.564887&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Leeds Art Gallery</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae52c9b5c10df0a64&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae52c9b5c10df0a64&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

@@ -1,0 +1,56 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Leeds PHP: Lithium
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Leeds PHP: Lithium</h2>
+					<p><span>21st November 2011, 7:00PM</span> The Wellington</p>
+				</div>
+
+<p>Have you struggled to find a great PHP framework, look no further! Lithium is flexible, powerful, light framework which uses many of PHP 5.3 features to enable you to create a smarter web application.</p>				
+<p>The evening's presenter is <a href="http://twitter.com/#!/mackstar">Richard McIntyre</a>, a freelance web developer who has just moved back to the UK from Japan after living there for almost 15 years. He has recently started working with Union of Rad (the guys behind Lithium) to help them create client apps with this fantastic framework. </p>
+
+
+		
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>21st November 2011<br />
+<strong>Time: </strong>7:00PM<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong>Just turn up on the day<br />
+<strong>Links: </strong><a href="http://www.leedsphp.org/">Leeds PHP website</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/craigwillis85"><span>Craig Willis</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=14666113452667366794&q=wellington,+leeds&hl=en&sll=53.803578,-1.5909&sspn=0.212243,0.335296&ie=UTF8&ll=53.972243,-2.118988&spn=0.000404,0.000687&t=m&z=11&vpsrc=0">The Wellington</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae543c97371eb48ab&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae543c97371eb48ab&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

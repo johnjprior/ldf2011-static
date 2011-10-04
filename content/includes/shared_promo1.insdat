@@ -1,0 +1,13 @@
+LH_BLOCK:
+<div class="block">
+		
+			<a href="/about/sponsors.html" class="heading"><h2>Sponsors</h2></a>
+			<p>
+			<ul class="nav sp">
+			<li><a href="/about/sponsors.html#leedsbrewery"><img src="/img/sponsors/leeds-brewery.jpg"></a></li>
+			<li><a href="/about/sponsors.html#yorkshire-evening-post"><img src="/img/sponsors/yorkshire-evening-post.jpg"></a></li>
+			<li><a href="/about/sponsors.html#orchard"><img src="/img/sponsors/orchard.jpg"></a></li>
+			</ul>
+			</p>
+</div>
+LH_BLOCK

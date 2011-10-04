@@ -1,0 +1,58 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Creative JS with Seb Lee-Delisle
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Creative JS with Seb Lee-Delisle</h2>
+					<p><span>29th - 30th November 2011</span> Round Foundry</p>
+				</div>
+				
+<p>Over the last few months, Seb Lee-Delisle has been inspiring a new audience in the art of creative coding with JavaScript and HTML5. And after selling out the last NYC courses in a matter of hours, his workshop is now coming to Leeds!</p>
+<p>In-browser graphical capabilities are becoming richer than ever, and you can now create truly beautiful visual effects with JavaScript and HTML5.</p>
+<p>Come and learn how to draw, animate, and create truly interactive content, including advanced mouse interactions, pixel manipulation, image blending, physics, 3D and games.</p>
+<p>During the two days of this hands-on training, we値l be working through a series of specially created examples that demonstrate the techniques for drawing and animating with code.</p>
+<p>We値l start off with the basics of rendering into an HTML5 canvas, and animating simple objects with tweening, realtime easing and sequencing. We値l then learn how to simulate physics without having to learn rocket science. And what better way to use physics than to make a particle system with sparks, smoke and explosions?</p>
+<p>Working in two dimensions is fun but three is better! We値l demystify 3D rendering by creating our own simple 3D system. And then move on to more complex examples using Mr.doob痴 three.js library. We値l also examine the differences between using canvas, DOM and SVG graphics to learn how to choose which one is right for us.</p>
+<p>Finally we値l explore how we can use these new found skills to make games.</p>
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>29th - 30th November 2011<br />
+<strong>Time: </strong>10:00AM - 5:00PM<br />
+<strong>Cost: </strong>&pound;599 early bird, &pound;699 full price. &pound;200 discount for freelancers<br />
+<strong>Where to get tickets: </strong><a href="http://creativejsleeds.eventbrite.com/">Eventbrite</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/anatomic">Ian Thomas</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?hl=en&cid=6763117549302738024&ie=UTF8&ll=53.796355,-1.568727&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Round Foundry</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae4fe9a32122f2ffd&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae4fe9a32122f2ffd&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

@@ -1,0 +1,61 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Opta Rugby Open House
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Opta Rugby Open House</h2>
+					<p><span>22nd November 2011, 6:00PM</span> Opta Leeds</p>
+				</div>
+				
+<p>Opta’s Leeds office is the heartland of Rugby data and statistics.</p>
+<p>Data has never been more important in professional Rugby.  From coaches, analysts and commentators – statistics are now fully embedded in the fabric of the game.</p>
+<p>All Rugby League and Rugby Union data is collected here at Opta.  It is used by a large proportion of professional clubs to analyse performance and scout opposition.</p>
+<p>At Opta in Leeds, we collect and distribute data from over 1,000 games of professional Rugby every year.  With over 1,500 individual actions recorded in each game, that is a lot of data.</p>
+<p>It is also used to power stats websites, fantasy games and mobile apps.</p>
+<p>We are offering Rugby fans a chance to come and see how we collect the data, how analysts at clubs would use it to assess their performance and what patterns of play they would be specifically looking for.</P>
+<p>We would show what it takes to be a performance analyst in the world of professional Rugby as well as show how the stats make their way onto TV screens and websites for the fans.</p>
+<p>Come along to Opta and we’ll show you how we collect the data.  We’ll show you how professional coaches and analysts use this data – what they look for and why.  We’ll show you how the data gets from our systems to the fans via broadcasts, websites and mobile apps.</p>
+
+
+		
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>22nd November 2011<br />
+<strong>Time: </strong>6:00PM - 8:00PM<br />
+<strong>Cost: </strong>Free (ticket required)<br />
+<strong>Where to get tickets: </strong>Details coming soon<br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/Banouby"><span>Simon Banoub</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?ftid=0x48795ea5a79560a5:0x2112ec37eb0da325&q=ls3+1el&hl=en&sll=53.800798,-1.561376&sspn=0.006295,0.006295&ie=UTF8&ll=53.806366,-1.577868&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Opta Leeds</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce2125f1b405e5&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce2125f1b405e5&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

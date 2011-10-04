@@ -1,0 +1,68 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Creating Great Video Content
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Creating Great Video Content</h2>
+					<p><span>9th November 2011, 8:30AM</span></p>
+				</div>
+				
+<p>Set to be a busy hour's seminar, online video expert Steffan Aquarone lays out the truth about video on the web.</p>
+
+<p>Fresh from writing the Econsultancy Online Video Best Practice guide and mid-season working with some of the country's top digital marketers on their video strategy, Steff promises a an action-packed talk with headlines about what works in online video, live examples of good, bad and ugly, and plenty of tools and tips to help you create the right content for your organisation.</p>
+
+<p>Topics covered will include:</p> 
+<ul>
+<li>Why content is king - and understanding your audience is key</li>
+<li>The death of corporate video (and how to deal with the grief)</li>
+<li>Brand entertainment, 'Viral' video and user generated content</li>
+<li>Distribution: seeding content, video and the social web</li>
+<li>Strategy and brief-setting: some practical tools</li>
+</ul>
+<h3 class="content">Steffan Aquarone</h3>
+<p>Steffan Aquarone is a young entrepreneur and online video expert who thrives on making things happen.</p>
+<p>At just 20 years of age Steff was a founding director of award-winning digital film company Fullrange. As MD Steff led the development of the company's high-profile key account portfolio working with clients including Land Rover, Vodafone, Deutsche Bank and American Express. </p>
+<p>As a producer of content Steff has a deep understanding of visual communications and what works with different audiences. As a marketeer and consultant, he is able to apply these creative skills to the task of achieving hard, measureable business benefits using film.</p>
+<p>Through his current consultancy firm, Venio, Steff is involved in some of the most exciting commercial online video projects in the UK and has bucket-loads of materials and case studies from global brands to talk about.</p>
+<p>In his spare time Steff is a director of the Producers' Forum, a member-led network for film & TV producers, a trustee of 100 year-old Cadbury children's charity BAYC and co-owns feature-film production company Immense Productions with best-selling comedy writer Guy Browning.</p>
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>9th November 2011<br />
+<strong>Time: </strong>8:30AM - 10:30AM<br />
+<strong>Cost: </strong>&pound;25<br />
+<strong>Where to get tickets: </strong><a href="http://econsultancy.com/uk/events/creating-great-video-content">Econsultancy</a>. <br />
+<strong>Organised by: </strong><a href="http://econsultancy.com/uk/events/creating-great-video-content">Econsultancy</a> / <a href="http://twitter.com/#!/lisawisniowski">Lisa Wisniowski</a></p>						
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p>&nbsp;</p>
+				</div>
+<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+			</div>
+
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

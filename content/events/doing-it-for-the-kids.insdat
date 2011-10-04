@@ -1,0 +1,52 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Doing it for the kids
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Doing it for the kids</h2>
+					<p><span>3rd November 2011</span></p>
+				</div>
+				
+<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>3rd November 2011<br />
+<strong>Time: </strong>Details coming soon<br />
+<strong>Cost: </strong>Details coming soon<br />
+<strong>Where to get tickets: </strong>Details coming soon<br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/IdleSi"><span>Si Wilson</a> and <a href="http://twitter.com/#!/daveeccles">Dave Eccles</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p>&nbsp;</p>
+				</div>
+<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+			</div>
+
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

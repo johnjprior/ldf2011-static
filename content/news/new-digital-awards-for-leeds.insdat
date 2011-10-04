@@ -1,0 +1,37 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: New Awards Ceremony for Leeds Digital Festival
+SUB_PAGE: YES
+CONTENT_0:
+			<div class="block">
+
+					
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+				<div class="post-title">
+					<h2>New Awards Ceremony for Leeds Digital Festival</h2>
+					<p><span>13th September 2011</span> by Adrian Johnson</p>
+				</div>
+<p>A <a href="http://www.digitallyleeds.com/awards">new awards ceremony</a> to celebrate the digital talent in Leeds launches today as part of this year’s Leeds Digital Festival.</p>
+<p>The awards, created by Dom Hodgson known to many in the industry as the creator of the region’s largest SEO and search conference <a href="http://www.thinkvisibility.com/">Think Visibility</a>, are designed as an alternative to large corporate industry awards, celebrating all facets of the digital industry.</p>
+<p>“Many freelancers, students and small teams can’t afford to enter some of the industry led awards as prices can start from £150 just to enter with single ticket prices for the ceremony going for as much as £300 in some cases. This doesn’t mean that their work is any less creative or pioneering, just that they don’t have the same platform to promote themselves and celebrate the hard work that created campaigns for an impressive client list,” says Dom.</p>
+<p>The awards will be held on the 30th November to mark the end of this year’s month long Leeds Digital Festival. Categories have been selected to help bring together the Leeds digital community honouring freelancers, agencies and in-house client teams for their work and spreading the scope of the awards to include everything from social media and search to website design, games development, film, television, broadcasting and viral campaigns.</p>
+<p>“By focusing the awards on the teams and individuals we haven’t limited the range of digital disciplines that can be celebrated at the event,” adds Dom.</p>
+<p>“The idea is to bring the Leeds digital scene together whether they are one man bands or established companies and teams employing large numbers of people. The point is to focus on the work, the knowledge, the creativity and the talent we have in Leeds, which is why this event has been made both affordable and flexible.”</p>
+<p>The categories include freelancer of the year, small team of the year, large team of the year, best blog and best selfless act, celebrating not only digital work for charities and community organisation but contributions made to Open Source innovations, sharing digital knowledge. In addition to the main which are free to enter, there are also four voted for categories where individuals and teams can be nominated by industry peers. These include best tweeter, and Leeds digital star of the year which will celebrate an individual who contributed the most to the Leeds digital scene in the last twelve months.</p>
+<p>Leanne Buchan, Marketing Officer at Leeds City Council and one of the many volunteers organising this year’s Leeds Digital Festival says: “The Digitally Leeds Awards are a great way to bring everyone from the sector together. With no entry fees and an affordable ticket price this event will give a true reflection of digital in Leeds and celebrate areas of the digital sector that other awards don’t always offer a platform for.”</p>
+<p>“By having a very open approach to categories the <a href="http://www.digitallyleeds.com/awards">Digitally Leeds Awards</a> will be unique in celebrating the whole digital sector in Leeds at one event rather than many fragmented and sometimes exclusive events. This event will offer an opportunity to see the full breadth of the Leeds digital scene at its very best.”</p>
+<p>The awards are now <a href="http://www.digitallyleeds.com/awards">open for entries</a> and all categories are free to enter. The closing date for entries is 27th October 2011 5pm ahead of the awards ceremony the following month which will take place at Alea Casino. A panel of industry judges will be announced later this month.</p>
+				
+				
+			</div>
+CONTENT_0
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

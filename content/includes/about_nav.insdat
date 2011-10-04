@@ -1,0 +1,23 @@
+LH_BLOCK:
+<div class="block">
+		
+			<a href="/about/" class="heading"><h2>Pages in About</h2></a>
+			<ul class="nav link-block">
+				<li><a href="/about/" class="block">
+					<span>About</span> Leeds Digital Festival, why we're here and what we're doing
+				</a></li>
+				<li><a href="/about/contact-us.html" class="block">
+					<span>Contact us</span> Find out more or get involved
+				</a></li>
+				<li><a href="/about/contributors.html" class="block">
+					<span>Contributors</span> Some of the people who have put their time and talent into this year's Festival
+				</a></li>
+			</ul>
+			<ul class="nav link-block">
+				<li><a href="/about/sponsors.html" class="block">
+					<span>Sponsors</span> Organisations who have helped to make the Festival possible
+				</a></li>
+			</ul>
+
+		</div>
+LH_BLOCK

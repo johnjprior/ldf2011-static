@@ -1,0 +1,37 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: Leeds Digital Festival announces Sociality
+SUB_PAGE: YES
+CONTENT_0:
+			<div class="block">
+
+					
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+				<div class="post-title">
+					<h2>Leeds Digital Festival announces Sociality</h2>
+					<p><span>25th July 2011</span> by Adrian Johnson</p>
+				</div>
+<p>The second of four free seminars for local businesses in Yorkshire has been announced by organisers of this year’s Leeds Digital Festival – following a successful event on search engine optimisation attended by almost 100 people this month, the August event will look at social media.</p>
+<p>The lunchtime seminar will bring together the heads of the region’s leading social media agencies who will debate some of the sector’s hottest topics and provide free advice for businesses looking to run social media campaigns.</p>
+<p>The panel will include Nathan Lane, Bell Pottinger; Ally Manock, Brass; Chris Norton, Dinosaur PR; Paul Rayment, Dubit; James Newman, Finn PR; Jen Holmes, The Friendly Copywriting Company; Monica Tailor, kilo75; Kristal Ireland, Propaganda; Liz Cable, Reach Further; Adrian Johnson, Umpf; and Stuart Bruce, Wolfstar Consultancy.</p>
+<p>Businesses from the region attending the session will hear the panel discuss a variety of subjects such as social media strategy, objective setting, measurement as well some of the tools used by agencies.</p>
+<p>Simon Wilson, one of the organisers of this year's Leeds Digital Festival, said: “Social media is a real hot topic for many businesses right now, but there’s still a knowledge gap and with new networks, new apps and new tools springing up seemingly on a daily basis, it can be hard for non-specialists to keep up.</p>
+<p>“For the second in our free lunchtime seminars for Yorkshire businesses, we'll be reviewing the overall sector landscape, asking ‘What can social media do for my business?’ and looking at what achievable objectives organisations can set themselves.</p>
+<p>“Businesses looking to widen their social media knowledge, whether it’s Twitter or Tumblr, Facebook or Foursquare, should attend the event and put their questions to our expert panel.”</p>
+<p>Now in its fourth year, the Leeds Digital Festival will run throughout November and covers everything from the making and playing of computer games to cinematography, animation, web design and development, graphic design, art, photography, radio, television, viral marketing, social networking and music.</p>
+
+
+				
+				
+			</div>
+CONTENT_0
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

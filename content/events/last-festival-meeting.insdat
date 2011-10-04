@@ -1,0 +1,54 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Festival Meeting
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Festival Meeting</h2>
+					<p><span>20th October 2011, 6:00PM</span> Midnight Bell</p>
+				</div>
+				<p>The last meet up before the Festival proper starts.</p>
+
+<p>Come along for updates, last minute tweaks and a few drinks to celebrate or to steady your nerves.</p>
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>20th October 2011<br />
+<strong>Time: </strong>6:00PM - 9:00PM<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong>Just turn up on the night<br />
+<strong>Links: </strong><a href="http://www.facebook.com/event.php?eid=172046016209507">Facebook event page</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/IdleSi"><span>Si Wilson</a> and <a href="http://twitter.com/#!/leannebuchan">Leanne Buchan</a></p>
+				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=8279787265468621244&q=Midnight+Bell,+Water+Lane&hl=en&sll=53.791719,-1.551778&sspn=0.013183,0.032015&ie=UTF8&ll=53.802856,-1.584778&spn=0.000025,0.000043&t=m&z=15&vpsrc=0">Midnight Bell</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1cc681d392b3a4d&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1cc681d392b3a4d&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

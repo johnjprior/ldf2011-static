@@ -1,0 +1,108 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: video
+SUB_PAGE: YES
+NAV_NAME: Video
+NAME: Sociality
+CONTENT_0:
+			<div class="block">
+						<a href="/video/"><strong class="page-tag">Video</strong></a>
+				<div class="post-title">
+					<h2>Sociality</h2>
+					<p><span>17 August 2011</span> The Adelphi</p>
+				</div>
+ <p>As part of our series of lunchtime events at The Adelphi, we put together a panel of experts on social media.</p>
+				
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part One</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/Z7tv30_dlBE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/Z7tv30_dlBE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Two</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/h_RCY9SsvtA?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/h_RCY9SsvtA?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_2
+CONTENT_3:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Three</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/tEVrbqvR-BE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/tEVrbqvR-BE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_3
+CONTENT_4:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Four</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/UhYENe0N2Xg?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/UhYENe0N2Xg?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_4
+CONTENT_5:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Five</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/F9-Zy19k7aM?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/F9-Zy19k7aM?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_5
+CONTENT_6:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Six</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/wypXy26oiKQ?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/wypXy26oiKQ?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_6
+CONTENT_7:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Seven</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/UsAnvLblntE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/UsAnvLblntE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_7
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_videos.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

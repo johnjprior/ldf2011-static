@@ -1,0 +1,65 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Culture Hack North
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Culture Hack North</h2>
+					<p><span>12th - 13th November 2011</span> Old Broadcasting House</p>
+				</div>
+				
+<p>Culture Hack is an opportunity for cultural organisations to make digital prototypes and develop new networks within the technology and creative industries. The cultural and arts organisations will provide datasets and 'problems' for the digital people to play with and respond to.</p>
+
+<p>Culture Hack enables:</p>
+<ul>
+<li>An exchange of expertise between technology and cultural sectors</li>
+<li>Low-risk digital prototyping and product innovation</li>
+<li>Fast-track understanding of open data</li>
+<li>Increased digital understanding and capacity building</li>
+<li>Newly found stories & user experiences to be told</li>
+<li>Creative collaboration between cultural, creative and technology industries</li>
+</ul>
+
+<p>Previous Culture Hack events have taken place in Edinburgh and London, but this is the first Culture Hack North event</p>
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>9:00 AM 12th - 5:00 PM 13th November 2011<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong><a href="http://culturehacknorth2011-auto.eventbrite.com/">Eventbrite</a><br />
+<strong>Links: </strong><a href="http://www.culturehacknorth.co.uk/index.php">Culture Hack North website</a>, <a href="http://twitter.com/#!/CultureHack_N">Culture Hack North on Twitter</a><br />
+<strong>Organised by: </strong>Ash Mann</p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?ftid=0x48795c02550f8a93:0xf781b4dc64100a2c&q=Old+Broadcasting+House,+Woodhouse+Lane,+Leeds&hl=en&sll=53.805745,-1.548793&sspn=0.006295,0.006295&ie=UTF8&ll=53.811029,-1.565294&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Old Broadcasting House</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca35a5b3d606a4f&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca35a5b3d606a4f&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

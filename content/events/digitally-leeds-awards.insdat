@@ -1,0 +1,57 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Digitally Leeds Awards
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Digitally Leeds Awards</h2>
+					<p><span>30th November 2011</span> Alea Casino</p>
+				</div>
+				
+<p>The Digitally Leeds Awards have been designed as an alternative to large corporate industry awards, celebrating all facets of the digital industry. Many freelancers, students and small teams can’t afford to enter some of the industry led awards as prices can start from £150 just to enter with single ticket prices for the ceremony going for as much as £300 in some cases. This doesn’t mean that their work is any less creative or pioneering, just that they don’t have the same platform to promote themselves and celebrate the hard work that created campaigns for an impressive client list.</p>
+
+<p>The categories include freelancer of the year, small team of the year, large team of the year, best blog and best selfless act, celebrating not only digital work for charities and community organisation but contributions made to Open Source innovations, sharing digital knowledge. In addition to the main which are free to enter, there are also four voted for categories where individuals and teams can be nominated by industry peers. These include best tweeter, and Leeds digital star of the year which will celebrate an individual who contributed the most to the Leeds digital scene in the last twelve months.</p>
+
+<p>The awards are now <a href="http://www.digitallyleeds.com/awards/">open for entries</a> and all categories are free to enter. The closing date for entries is 27th October 2011 5pm. A panel of industry judges will be announced later this month.</p>
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>30th November 2011<br />
+<strong>Time: </strong>6:00PM - 12:00AM<br />
+<strong>Cost: </strong>&pound;40 per ticket<br />
+<strong>Where to get tickets: </strong><a href="http://leedsawards.eventbrite.com/">Eventbrite</a><br />
+<strong>Links: </strong><a href="http://www.digitallyleeds.com/awards/">The Digitally Leeds Awards website</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/thehodge">Dom Hodgson</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=16000689879086154562&q=alea,+leeds&hl=en&sll=53.790106,-1.5316&sspn=0.020972,0.038549&ie=UTF8&ll=53.801006,-1.564608&spn=0.000025,0.000043&t=m&z=15&vpsrc=0">Alea Casino</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce8f4bcf38e3fc&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce8f4bcf38e3fc&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

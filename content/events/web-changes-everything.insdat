@@ -1,0 +1,76 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Web Changes Everything
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Web Changes Everything</h2>
+					<p><span>1st November 2011, 10:00AM</span> Round Foundry</p>
+				</div>
+				
+<p>In case you hadn't noticed, the web <strong>has</strong> changed everything.</p>
+<p>Bloggers, Tweeters, Patient Opinion, Fill That Hole and so on...the web is full of people's opinions, experiences, ideas and beliefs about you, your organisation and your products and services.</p>
+<p>It is far more likely that we will read about what you do in a piece written on the web by our peers than a piece written by your PR department on your website.</p>
+<p>In this one day workshop we will explore exactly what has changed because of the web and how.  This will not be a day for technologists and web geeks, but for communications professionals, service managers, business developers, strategists and others who are wondering how to manage perceptions on the web and use them to build a better business.</P>
+<p>We will not be looking in any detail at the specifics of particular social media platforms or web sites but we will be examining how the new information that it surfaces can either kill or cure a business.</p>
+<p>We will then look at practical actions and strategies that will help to re-position an organisation effectively in the web enabled world.</p>
+<p>Remember:  your customers and service users know more about your products and services right now than you do.  And whether their experience is good or bad, increasingly they will use the web to tell people about it.  The only question is, once you accept and understand this, how do you respond?</p>
+
+<h3 class="content">Who Should Attend?</h3>
+<p>This workshop will be useful to anyone who is coming to terms with how the web is shaping their business and how they need to re-think strategy and communications as a consequence.</p>
+<p>Whether you work on the delivery and management of a public service or in the private or 'third sector' our promise is that  this workshop will provide you with practical ideas about how to make the most of the new web world.</p>
+
+<h3 class="content">What we will cover</h3>
+<ul>
+<li>Why people listen to the web, and how you can too...</li>
+<li>When a story breaks - how should we respond?</li>
+<li>Why SHOUTING on the web won't work - how to engage in polite yet powerful conversation</li>
+<li>Finding your voice and speaking your truth</li>
+<li>Dozens of ways in which the web changes everything and how you might respond as a result</li>
+</ul>
+
+<h3 class="content">Workshop Leaders</h3>
+<p>The sessions will by led by some of Leeds most influential and experienced bloggers, tweeters and social marketers.  By people who care passionately about the web, good business and civic society.</p>
+<p>If you fancy lending a hand in the design and delivery of the workshop rather than coming along as  participant, or if you have any questions then please do get in touch.</p>
+
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>1st November 2011<br />
+<strong>Time: </strong>10:00AM - 4:00PM<br />
+<strong>Cost: </strong>&pound;75 (&pound;50 early bird)<br />
+<strong>Where to get tickets: </strong><a href="http://ldfwebchanges.eventbrite.com/">Eventbrite</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/mikechitty">Mike Chitty</a></p>				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?hl=en&cid=6763117549302738024&ie=UTF8&ll=53.796355,-1.568727&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Round Foundry</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae4fe9a32122f2ffd&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae4fe9a32122f2ffd&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat

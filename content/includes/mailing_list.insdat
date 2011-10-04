@@ -1,0 +1,33 @@
+LH_BLOCK:
+			<div class="block">
+		
+			<a href="/about/contact-us.html" class="heading"><h2>Join our mailing list</h2></a>
+<form action="http://leedsdigitalfestival.us2.list-manage1.com/subscribe/post?u=b8f7986f69c6c2c7b80e134bd&amp;id=c66c4460b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">						    <fieldset>
+
+<div class="fcontainer">
+<div class="finner">
+        <p>
+
+            <label for="mce-FNAME" class="flabel">First name</label>
+            <input type=text class=text-input name="FNAME" id="mce-FNAME" />
+        </p>
+        <p>
+            <label for="mce-LNAME" class="flabel">Surname</label>
+            <input type=text class=text-input name="LNAME" id="mce-LNAME" />
+		</p>
+
+        <p>
+            <label for="mce-EMAIL" class="flabel">Email</label>
+            <input type=email class=text-input name="EMAIL" id="mce-EMAIL" />
+
+        </p>
+</div>
+		<div class="btncontainer">
+				<input type=submit class="btn signup" value="Sign up">
+			</div>
+</div>
+
+    </fieldset>
+
+			 <p>We promise that we won't use your details for any purpose than sending you emails about Leeds Digital Festival, and that you can unsubscribe at any time. Read our <a href="/privacy-policy/">Privacy Policy</a> if you want more information.</p>			</div>
+LH_BLOCK

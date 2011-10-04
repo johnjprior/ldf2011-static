@@ -1,0 +1,78 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: about
+NAV_NAME: About
+NAME: Sponsors
+SUB_PAGE: yes
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/about/"><strong class="page-tag">About</strong></a>
+				
+				<div class="post-title">
+					<h2>Sponsors</h2>
+					<p>&nbsp;</p>
+				</div>
+				<p>We'd like to thank our sponsors for their support.</p>
+</div>
+
+CONTENT_0
+CONTENT_1:
+<a name="leedsbrewery"></a>
+			<div class="block">
+				
+				<div class="post-title">
+					<h2>Leeds Brewery</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+
+					<p><img class="inlimg" src="/img/sponsors/leeds-brewery.jpg" align="left">Leeds Brewery was established in 2007. It is the city’s only independent brewery. We combine the latest in brewing technology with time honoured skills and use the finest ingredients – choicest English hops, select British malted barley and our unique Yorkshire yeast – to create truly exceptional beers.</p>
+					<p><a href="http://www.leedsbrewery.co.uk" class="btn">Leeds Brewery Website</a></p>	
+		
+			</p>
+</div>
+
+CONTENT_1
+CONTENT_2:
+<a name="yorkshire-evening-post"></a>
+			<div class="block">
+				
+				<div class="post-title">
+					<h2>Yorkshire Evening Post</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+
+					<p><img class="inlimg" src="/img/sponsors/yorkshire-evening-post.jpg" align="left">The Yorkshire Evening Post was first published on September 1, 1890. It was launched to compete with the Yorkshire Evening News and the Leeds Evening Express.</p>
+
+<p>In 1963 it absorbed its great rival, the Yorkshire Evening News.</p>
+
+<p>It is part of Yorkshire Post Newspapers who other titles include the Yorkshire Post, Leeds Weekly News, The Pudsey Times and Wharfe Valley Times.</p>
+<p><a href="http://www.yorkshireeveningpost.co.uk/" class="btn">Yorkshire Evening Post Website</a></p>	
+
+</div>
+
+CONTENT_2
+CONTENT_2:
+<a name="orchard"></a>
+			<div class="block">
+				
+				<div class="post-title">
+					<h2>Orchard</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+
+					<p><img class="inlimg" src="/img/sponsors/orchard.jpg" align="left">Orchard is the North of England's largest Digital, Creative and Marketing recruitment consultancy. With Offices in Manchester and Leeds we place talented people in freelance and permanent Jobs online and off-line within Agency and Client side companies.</p>
+<p><a href="http://www.orchard.co.uk" class="btn">Orchard Website</a></p>	
+
+</div>
+
+CONTENT_2
+INCLUDE_0: about_nav.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -1,0 +1,44 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: Leeds Digital Festival launches Leeds Digital Lunches
+SUB_PAGE: YES
+CONTENT_0:
+			<div class="block">
+
+					
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+				<div class="post-title">
+					<h2>The Pixels have it: Team B win the vote</h2>
+					<p><span>12th August 2011</span> by Adrian Johnson</p>
+				</div>
+					<div>
+						<img src="/img/news/Team-B-winning.jpg" alt="Team B members Gaz Battersby and Andrew Machin pose with their winning design" /></div>
+<div><sup>
+Image &copy;
+<a title="Forty Below Zero" href="http://www.fortybelowzero.com/">Rick Harrison</a>
+2011. All rights reserved.
+</sup></div>
+				<p>This year’s Leeds Digital Festival, a month-long celebration of the region’s digital sector, kicked off today with the launch of the new festival identity which was chosen by a public vote following a collaborative design competition between the region’s creatives and design students.</p>
+<p>The aim of the festival, which now in its fourth year attracts thousands of participants, is to promote the work and talent the city has to offer, from urban artists, digital practitioners, students, freelancers and other collaborators.</p>
+<p>The branding was unveiled today by festival organisers on the giant digital screen in Millennium Square – the winning design was created by <a href="http://iamgaz.co.uk/" title="Gaz Battersby's website">Gaz Battersby</a>, Digital Creative Director at Epiphany Solutions, <a href="http://www.twitter.com/the_machin" title="Andrew Machin on Twitter">Andrew Machin</a>, Head of Design for Branded3 and recent design student graduate <a href="http://hannahbackhouse.com" title="Hannah Backhouse's website">Hannah Backhouse</a>.</p>
+<p>Leanne Buchan, organiser at Leeds Digital Festival, said: “The Festival is run entirely by volunteers and supporters and true to its collaborative nature, we decided to open up the creative identity this year to designers and students in the city. </p>
+<p>“Everyone donated their time for free during a competition day in April and a panel of experts whittled down the entries to a top three which was opened to a public vote – so our winning identity is very much owned by the city.</p>
+<p>“Now we have our 2011 Festival identity we will be launching the month-long programme on our website www.leedsdigitalfestival.com in September.  Already, we’ve got more than double the number of events from previous years which again shows the appetite for digital in our region.  Our fourth Festival promises to be our best yet.”</p>
+<p>Around 200 staff from digital and creative agencies in the city attended the unveiling, taking part in a mass Foursquare check-in – a record for the Yorkshire region.</p>
+<p>The design process started in April when creatives at some of the city’s leading design agencies and the city’s freelance community donated their time free of charge and were joined by design students from the city’s colleges and universities.  Three designs were shortlisted by a panel of experts and these were made available for a public vote which ended in August.</p>
+<p>All three design presentations can be reviewed at the <a href="http://www.voteforleeds.com/">design voting site</a>, but voting is now closed. </p>
+
+					
+				
+			</div>
+CONTENT_0
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat
