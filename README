@@ -1,0 +1,9 @@
+Directories:
+/content
+Contains the data files. Format to be described later.
+/templates
+Contains the html templates. Note that the majority of markup is still in the data files at this point - to be remedied. But the headers/footers etc are in content.template
+/scripts
+Contains compiler.pl - a Perl script which combines the content and templates, and outputs the resulting html files into...
+/html
+The complete static website, suitable for direct FTP to server. Images and stylesheets are contained in here, rather than in content (for now; conceptually this is probably confusing, though).
