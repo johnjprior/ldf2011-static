@@ -589,7 +589,7 @@ CONTENT_10:
 <p><a href="/events/football.html" class="btn more">More info</a></p>				
 			</div>
 CONTENT_10
-CONTENT_9:
+HIDECONTENT_9:
 <a name="26112011"></a>
 			<div class="block">
 						
@@ -603,6 +603,8 @@ CONTENT_9:
 
 <p><a href="/events/looking-good-photo-hunt.html" class="btn more">More info</a></p>				
 			</div>
+HIDECONTENT_9
+CONTENT_9:
 CONTENT_9
 CONTENT_8:
 <a name="27112011"></a>
