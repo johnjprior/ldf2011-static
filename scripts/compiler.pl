@@ -4,12 +4,11 @@ use warnings;
 use File::Find;
 
 # Filepaths
-my $base_dir     = 'D:/Users/John/Documents/Website/leedsdigitalfestival_new';
+my $base_dir     = 'C:/Users/John/leedsdigitalfestival_new';
 my $content_dir  = join '/', $base_dir, 'content';
 my $includes_dir = join '/', $content_dir, 'includes';
 my $template_dir = join '/', $base_dir, 'templates';
 my $html_dir     = join '/', $base_dir, 'html';
-#my $domain       = 'www.emmawensley.co.uk/ldf/';
 my $domain       = 'www.leedsdigitalfestival.com';
 
 
