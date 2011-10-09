@@ -21,6 +21,18 @@ CONTENT_1:
 			<div class="block">
 				
 				<div class="post-title">
+					<a href="brand-guidelines.html" class="heading"><h2>Logos and images</h2></a>
+					<p>&nbsp;</p>
+				</div>
+
+				<p>If you're an event organiser (or anyone else) looking for Festival artwork or brand information, then we have some useful materials here.</p>
+<p><a href="brand-guidelines.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+				
+				<div class="post-title">
 					<a href="press-resources.html" class="heading"><h2>Press Resources</h2></a>
 					<p>&nbsp;</p>
 				</div>
@@ -28,19 +40,7 @@ CONTENT_1:
 				<p>If you'd like to know more about Leeds Digital Festival for a story you're writing, we have answers to some commonly asked questions here.</p>
 <p><a href="press-resources.html" class="btn more">Read more</a></p>					
 			</div>
-CONTENT_1
-WAITCONTENT_2:
-			<div class="block">
-				
-				<div class="post-title">
-					<a href="brand-guidelines.html" class="heading"><h2>Brand Guidelines</h2></a>
-					<p>&nbsp;</p>
-				</div>
-
-				<p>If you're an event organiser looking for Festival artwork or brand information, then we have some useful materials here.</p>
-<p><a href="brand-guidelines.html" class="btn more">Read more</a></p>					
-			</div>
-WAITCONTENT_2
+CONTENT_2
 INCLUDE_0: resources_nav.insdat
 INCLUDE_1: shared_promo1.insdat
 INCLUDE_2: shared_promo2.insdat

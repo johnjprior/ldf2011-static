@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
-<meta property="og:image" content="http://www.leedsdigitalfestival.com/icon.png" />
+<meta property="og:image" content="http://www.leedsdigitalfestival.com/img/logos/LDF-logo.gif" />
 <meta name="description" content="Leeds Digital Festival is a celebration of digital technology and platforms. The digital industry spans business, art, culture, education and lifestyle; and the festival features a range of events, shows, lectures, and social events to bring the entire community together." />
 
 	<title><!-- insert: NAME --> | Leeds Digital Festival 2011</title>
@@ -30,7 +30,10 @@ function writeJumpButton() {
 }
 </script>
 <!-- insertifend -->
-
+<!-- insertif: CONFIGURATOR -->
+<script type="text/javascript" src="/scripts/configurator.js"></script>
+<link rel="stylesheet" href="/css/configurator.css">
+<!-- insertifend -->
 </head>
 <body>
 
@@ -231,6 +234,22 @@ window.onload = writeJumpButton;
 }
 </script>
 <!-- insertifend -->
+
+<!-- insertif: CONFIGURATOR -->
+    		<script type="text/javascript">
+if ( window.addEventListener ) {
+window.addEventListener( "load", updateLogoCode, false );
+}
+else
+if ( window.attachEvent ) {
+window.attachEvent( "onload", updateLogoCode );
+} else
+if ( window.onLoad ) {
+window.onload = updateLogoCode;
+}
+</script>
+<!-- insertifend -->
+
 		<script type="text/javascript">
 			  var _gaq = _gaq || [];
 			  _gaq.push(['_setAccount', 'UA-22368289-1']);

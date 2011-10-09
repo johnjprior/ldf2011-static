@@ -1,0 +1,20 @@
+	
+.ldflogo{
+    text-shadow:
+    -1px -1px 0 #13c115,
+    -2px -2px 0 #13c115,
+    -3px -3px 0 #13c115,
+    -4px -4px 0 #13c115,
+    -5px -5px 0 #13c115;
+	font-weight:normal;
+	font-size: 7em;
+	margin-bottom: 1rem;
+	font-family: '04b19Regular',Impact,sans-serif;
+	font-weight: normal;
+    line-height: 0.66;
+    text-transform: uppercase;
+	color: #1BDD1D;
+}
+.ldflink,.ldflink:hover,.ldflink:active{
+	text-decoration: none;
+}
