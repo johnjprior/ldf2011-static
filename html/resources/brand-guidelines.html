@@ -11,6 +11,7 @@
 	<link rel="shortcut icon" href="/icon.png">
 	<link rel="apple-touch-icon-precomposed" href="/icon.png">
 	<link type="text/plain" rel="author" href="/humans.txt">
+
 </head>
 <body>
 
@@ -133,7 +134,7 @@
 </div>
 
     </fieldset>
-
+</form>
 			 <p>We promise that we won't use your details for any purpose than sending you emails about Leeds Digital Festival, and that you can unsubscribe at any time. Read our <a href="/privacy-policy/">Privacy Policy</a> if you want more information.</p>			</div>
 	
 
@@ -149,13 +150,158 @@
 				<a href="/resources/"><strong class="page-tag">Resources</strong></a>
 			
 				<div class="post-title">
-					<h2>Brand guidelines</h2>
+					<h2>Logos and guidelines</h2>
 					<p>&nbsp;</p>
 				</div>
 			
-					<p>Brand guidelines will go here.
-					</p>
+					<p>We've put together a few different images and logos you can use for promoting festival events, writing about festival events, or whatever, really. Essentially they're free to use. We're putting them out under <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>. We'd put it out as public domain, but that's complicated in some jurisdictions. This license means that you're free to use them for any purpose, including commercial purposes, and to modify them as you like, so long as you provide attribution to us. And just the act of using any of the imagery constitutes attribution in and of itself - there's nothing else you need to do. </p>
 			
+			</div>
+			<div class="block">
+			
+				<div class="post-title">
+					<h2>Website logo</h2>
+					<p>&nbsp;</p>
+				</div>
+			
+					<p>Use the code below and paste it into your website HTML to get a copy of our logo on your site like this (you can skip steps 1-3 if they're not possible, but you won't get the full effect - you might want to download the image version instead, then):</p>
+					<ol>
+					<li>Download the <a href="/rsc/0419b.zip">zip file with the fonts for the logo</a></li>
+					<li>Unzip the fonts into a directory on your website</li>
+					<li>Add the path of the directory into which you've unzipped the fonts into the "Font path" field (e.g. <em>/mycss/myfonts/</em>)</li>
+					<li>Adjust the size of the logo using the bigger/smaller buttons</li>
+					<li>Copy the code from the "Logo code" field and add it to your website</li>
+					</ul>
+					<p>To get the full impact and use the proper font, you'll need to download this zip
+<style type="text/css">			
+.ldflogo{
+    text-shadow:
+    -1px -1px 0 #13c115,
+    -2px -2px 0 #13c115,
+    -3px -3px 0 #13c115,
+    -4px -4px 0 #13c115,
+    -5px -5px 0 #13c115;
+	font-weight:normal;
+	font-size: 7em;
+	margin-bottom: 1rem;
+	font-family: '04b19Regular',Impact,sans-serif;
+	font-weight: normal;
+    line-height: 0.66;
+    text-transform: uppercase;
+	color: #1BDD1D;
+}
+.ldflink,.ldflink:hover,.ldflink:active{
+	text-decoration: none;
+}
+
+</style>
+<script type="text/javascript">
+var fontSize = 7;
+var shadowa = 1;
+var shadowb = 2;
+var shadowc = 3;
+var shadowd = 4;
+var shadowe = 5;
+var margin = 1;
+var lineHeight = 0.66;
+var modifier = 1.1;
+
+function embiggen() {
+	if (fontSize > 18) {
+		document.getElementById("embiggen").disabled = true;
+		return;
+	}
+	document.getElementById("emsmallen").disabled = false;
+
+	fontSize = fontSize * modifier;
+	shadowa = shadowa * modifier;
+	shadowb = shadowb * modifier;
+	shadowc = shadowc * modifier;
+	shadowd = shadowd * modifier;
+	shadowe = shadowe * modifier;
+
+	updateLogoShow();
+	updateLogoCode();
+}
+function emsmallen() {
+	if (fontSize < 1.7) {
+		document.getElementById("emsmallen").disabled = true;
+		return;
+	}
+	document.getElementById("embiggen").disabled = false;
+
+	fontSize = fontSize / modifier;
+	shadowa = shadowa / modifier;
+	shadowb = shadowb / modifier;
+	shadowc = shadowc / modifier;
+	shadowd = shadowd / modifier;
+	shadowe = shadowe / modifier;
+
+	updateLogoShow();
+	updateLogoCode();
+}
+
+function updateLogoShow() {
+	document.getElementById("eg").style.fontSize = fontSize+'em';
+	document.getElementById("eg").style.textShadow = 	"-" + shadowa + "px -" + shadowa + "px 0 #13c115, " +
+														"-" + shadowb + "px -" + shadowb + "px 0 #13c115, " +
+														"-" + shadowc + "px -" + shadowc + "px 0 #13c115, " +
+														"-" + shadowd + "px -" + shadowd + "px 0 #13c115, " +
+														"-" + shadowe + "px -" + shadowe + "px 0 #13c115";
+}
+
+var stylestart = "<style type='text/css'>";
+var ldflogostatic = ".ldflogo{text-transform: uppercase;font-family: '04b19Regular',Impact,sans-serif;font-weight: normal;color: #1BDD1D;font-weight:normal;";
+var ldflink = ".ldflink,.ldflink:hover,.ldflink:active{text-decoration: none;}";
+var styleend = "</style>";
+var html = '<a href="http://www.leedsdigitalfestival.com" class="ldflink"><h1 class="ldflogo" id="eg">Leeds Digital Festival</h1></a>';
+var fontPath;
+
+function updateFontPath() {
+	fontPath = document.logocustomiser.elements["fontpath"].value;
+	updateLogoCode();
+}
+
+function updateLogoCode() {
+
+	document.logocustomiser.elements["logocode"].value =
+		stylestart + "\n" +
+		ldflink + "\n" +
+		ldflogostatic + "\n" +
+		"text-shadow:" +
+			"-" + shadowa + "px -" + shadowa + "px 0 #13c115," + "\n" +
+			"-" + shadowb + "px -" + shadowb + "px 0 #13c115," + "\n" +
+			"-" + shadowc + "px -" + shadowc + "px 0 #13c115," + "\n" +
+			"-" + shadowd + "px -" + shadowd + "px 0 #13c115," + "\n" +
+			"-" + shadowe + "px -" + shadowe + "px 0 #13c115;" + "\n" +
+		"font-size: " + fontSize + "em;" + "\n" +
+		"margin-bottom: " + margin + "rem;" + "\n" +
+		"line-height: " + lineHeight + ";}" + "\n" +
+		"@font-face {font-family:'04b19Regular';" +
+		"src:url('" + fontPath + "04b_19__-webfont.eot');" +
+		"src:local('?'), " +
+		"url('" + fontPath + "04b_19__-webfont.woff') format('woff'), " +
+		"url('" + fontPath + "04b_19__-webfont.ttf') format('truetype'), " +
+		"url('" + fontPath + "04b_19__-webfont.svg#04b19Regular') format('svg');" + "\n" +
+		"font-weight:normal;" + "\n" +
+		"font-style:normal;}" + "\n" +
+		styleend + "\n" + html;
+}
+onload = function() {updateLogoCode()};
+</script>
+<form name="logocustomiser" id="logocustomiser">
+<fieldset>
+
+        <p>
+            <label for="fontpath" class="flabel">Font path</label>
+            <input type=text class=text-input name="fontpath" id="fontpath" onchange="updateFontPath();"/>
+<p><a href="javascript:embiggen()" class="btn more" id="embiggen">Bigger</a> <a href="javascript:emsmallen()" class="btn less"  id="emsmallen">Smaller</a></p>
+<p>&nbsp;</p><p>&nbsp;</p>
+						<h1 class="ldflogo" id="eg">Leeds Digital Festival</h1>
+            <label for=logocode>Logo code</label>
+            <textarea rows=10 cols=50 id="logocode"></textarea>
+</fieldset>
+</form>
 			</div>
 			
 
@@ -186,14 +332,14 @@
 		</div>
 
 	</div>
-    
-
-
-
-   <script type="application/javascript">
-   <!-- 
-	writeJumpButton();
-	//-->
-	</script>
-
+		<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-22368289-1']);
+			  _gaq.push(['_trackPageview']);
+			  (function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+		</script>
 </body></html>

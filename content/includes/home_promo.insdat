@@ -16,7 +16,7 @@ LH_BLOCK:
 
 </div>
 <div class="block" class="heading">
-			<a href="/news/what-others-are-saying.html"><h2>What others are saying</h2></a>
+			<a href="/news/what-others-are-saying.html" class="heading"><h2>What others are saying</h2></a>
 			<ul class="nav link-block">
 				<li><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/central-leeds/leeds_digital_festival_computer_fans_go_back_to_basics_at_games_night_1_3782749" class="block">
 					<span>Yorkshire Evening Post</span> with a write-up about Get Into Gaming

@@ -12,7 +12,7 @@
 	<link rel="apple-touch-icon-precomposed" href="/icon.png">
 	<link type="text/plain" rel="author" href="/humans.txt">
 <!-- insertif: NAME="Home" -->
-<script type="application/javascript">
+<script type="text/javascript">
 function writeJumpButton() {
 	var currentTime = new Date();
 	var month = currentTime.getMonth() + 1;
@@ -28,9 +28,9 @@ function writeJumpButton() {
 	
 	document.getElementById("jumpbutton").innerHTML = '<p><a href="#' + link + '" onclick="jumpToDate();" class="btn">Next event</a></p>';
 }
-document.onload(writeJumpButton());
 </script>
 <!-- insertifend -->
+
 </head>
 <body>
 
@@ -217,15 +217,20 @@ document.onload(writeJumpButton());
 		</div>
 
 	</div>
-    
-
-
-
-   <script type="application/javascript">
-   <!-- 
-	writeJumpButton();
-	//-->
-	</script>
+	<!-- insertif: NAME="Home" -->
+    		<script type="text/javascript">
+if ( window.addEventListener ) {
+window.addEventListener( "load", writeJumpButton, false );
+}
+else
+if ( window.attachEvent ) {
+window.attachEvent( "onload", writeJumpButton );
+} else
+if ( window.onLoad ) {
+window.onload = writeJumpButton;
+}
+</script>
+<!-- insertifend -->
 		<script type="text/javascript">
 			  var _gaq = _gaq || [];
 			  _gaq.push(['_setAccount', 'UA-22368289-1']);
