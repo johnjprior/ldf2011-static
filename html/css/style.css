@@ -355,9 +355,10 @@ Abstraction, as per http://csswizardry.com/2011/09/the-nav-abstraction/
 	}
 .page-tag{
 	float:right;
-	font-size:3em;
+	font-size:2.5em;
 	margin-top:-10px;
 	padding:0.2em 0.35em;
+	font-weight:normal;
 }
 
 .flabel{
@@ -492,6 +493,13 @@ blockquote{
     .btn:hover{
         text-decoration:none;
     }
+a.btn,.page-tag {
+	font-family:"Helvetica Neue", Impact, sans-serif;
+}
+a.btn{
+	font-size:2.0em;
+}
+
 .btn.more:after{
 	content:" +";
 }
