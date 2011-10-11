@@ -3,12 +3,24 @@ ACTIVE_NAV: news
 NAV_NAME: News
 NAME: News
 CONTENT_REVERSE: Yes
-CONTENT_4:
+CONTENT_5:
 			<div class="block">
 				
 				<a href="/news/"><strong class="page-tag">News</strong></a>
 				
 
+				<div class="post-title">
+					<a href="programme-of-events-announced.html" class="heading"><h2>Festival programme of events announced</h2></a>
+					<p><span>10th October 2011</span> by Adrian Johnson and Jon Priestley</p>
+				</div>
+<p>The programme for this year’s annual Leeds Digital Festival has been unveiled and it promises to be the biggest and most diverse in its four-year history – more than 50 events will take place in the city throughout November.</p>
+
+<p><a href="programme-of-events-announced.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_5
+CONTENT_4:
+			<div class="block">
+				
 				<div class="post-title">
 					<a href="new-digital-awards-for-leeds.html" class="heading"><h2>New Awards Ceremony for Leeds Digital Festival</h2></a>
 					<p><span>13th September 2011</span> by Adrian Johnson</p>

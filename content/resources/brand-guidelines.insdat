@@ -53,7 +53,7 @@ CONTENT_2:
 <fieldset>
 					<p>Use the code below and paste it into your website HTML to get a copy of our logo on your site like this (you can skip steps 1-3 if you can't save files to your website, but you won't get the full effect - you might want to download <a href="#imagelogo">one of the image versions</a> instead, then):</p>
 					<ol>
-					<li>Download the <a href="/rsc/0419b.zip">zip file with the fonts for the logo</a></li>
+					<li>Download the <a href="/rsc/04b19.zip">zip file with the fonts for the logo</a></li>
 					<li>Unzip the fonts into a directory on your website</li>
 					<li>Add the path of the directory into which you've unzipped the fonts into the "Font path" field (e.g. <em>/mycss/myfonts/</em>)<br /><br />
 					            <label for="fontpath" class="flabel">Font path</label>

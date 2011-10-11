@@ -1,16 +1,15 @@
 LH_BLOCK:
 <div class="block">
-		
 			<a href="/news/" class="heading"><h2>Recent news</h2></a>
 			<ul class="nav link-block">
+				<li><a href="/news/programme-of-events-announced.html" class="block">
+					<span>Events programme</span> for Leeds Digital Festival announced
+				</a></li>
 				<li><a href="/news/new-digital-awards-for-leeds.html" class="block">
 					<span>New Awards Ceremony</span> for Leeds Digital Festival
 				</a></li>
 				<li><a href="/news/ldf2011-brand-revealed.html" class="block">
 					<span>The Pixels have it</span> Team B win the vote for the Festival brand design
-				</a></li>
-				<li><a href="/news/ldf2011-sociality-announced.html" class="block">
-					<span>Sociality</span> Leeds Digital Festival announces the second Leeds Digital Lunch
 				</a></li>
 			</ul>
 
@@ -18,14 +17,14 @@ LH_BLOCK:
 <div class="block" class="heading">
 			<a href="/news/what-others-are-saying.html" class="heading"><h2>What others are saying</h2></a>
 			<ul class="nav link-block">
+<li><a href="http://www.thedrum.co.uk/node/81129" class="block">
+					<span>The Drum</span> on the announcement of the events for November 2011
+				</a></li>
+				<li><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/central-leeds/leeds_digital_festival_website_goes_live_1_3852814" class="block">
+					<span>Yorkshire Evening Post</span> on the relaunch of our website and announcement of our events line-up
+				</a></li>
 				<li><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/central-leeds/leeds_digital_festival_computer_fans_go_back_to_basics_at_games_night_1_3782749" class="block">
 					<span>Yorkshire Evening Post</span> with a write-up about Get Into Gaming
-				</a></li>
-				<li><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/central-leeds/digitally_leeds_top_tweeter_to_be_honoured_at_awards_1_3764642" class="block">
-					<span>Yorkshire Evening Post</span> with the news of the Digitally Leeds awards
-				</a></li>
-				<li><a href="http://siwilson.wordpress.com/2011/08/24/sociality/" class="block">
-					<span>Si Wilson</span> on Sociality and the Leeds Digital Lunches
 				</a></li>
 			</ul>
 		</div>

@@ -1,0 +1,60 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: video
+SUB_PAGE: YES
+NAV_NAME: Video
+NAME: Mobilise
+CONTENT_0:
+			<div class="block">
+						<a href="/video/"><strong class="page-tag">Video</strong></a>
+				<div class="post-title">
+					<h2>Mobilise</h2>
+					<p><span>21st September 2011</span> The Adelphi</p>
+				</div>
+ <p>Our September lunchtime session was on mobile digital. We're still adding the videos for these, but parts 1 to 3 are available below.</p>
+				
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part One</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/GEVwa6yt3-E?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/GEVwa6yt3-E?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Two</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/fY7IeF4Ww4c?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/fY7IeF4Ww4c?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_2
+CONTENT_3:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Three</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/aN5sPb3zMC8?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/aN5sPb3zMC8?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_3
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_videos.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -1,0 +1,49 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: Festival programme of events announced
+SUB_PAGE: YES
+CONTENT_0:
+			<div class="block">
+
+					
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+				<div class="post-title">
+					<h2>Festival programme of events announced</h2>
+					<p><span>10th October 2011</span> by Adrian Johnson and Jon Priestley</p>
+				</div>
+<p>The programme for this year’s annual Leeds Digital Festival has been unveiled and it promises to be the biggest and most diverse in its four-year history – more than 50 events will take place in the city throughout November.</p>
+<p>The Festival, which is a celebration of the region’s digital sector, starts with a free-to-attend launch party on the 1st November which will showcase five of the Festival’s November events.  There will be a bar and live music throughout the evening from local bands.</p>
+
+<p>Other Festival highlights include:</p>
+<ul>
+<li>the launch of the first ever <a href="/events/digitally-leeds-awards.html">Digitally Leeds Awards</a></li>
+<li><a href="/events/tedx-leeds.html>TEDx session</a></li>
+<li><a href="/events/opta-rugby.html">tours</a> and <a href="/events/opta-joe.html">case studies</a> from sports data business Opta</li>
+<li>an <a href="/events/digital-disruption.html">evening with technology journalist Ben Hammersley</a></li>
+<li>events from the region’s arts and cultural networks</li>
+<li>blogger sessions</li>
+<li>events from digital marketing organisation Econsultancy</li>
+<li>an <a href="/events/awesome-yorkshire.html">Awesome Yorkshire</a> panellist event</li>
+</ul>
+
+<p>A <a href="/events/checkincheckoff.html">digital check-in, check-out adventure game</a> being held in Leeds city centre and a unique <a href="/events/football.html">four-a-side football tournament</a> part-played on football pitches, part-played on arcade games highlights the diverse nature of the events on offer.</p>
+<p>The Festival, which is sponsored by <a href="http://www.leedsbrewery.co.uk">Leeds Brewery</a> and <a href="http://www.orchard.co.uk">Orchard recruitment consultants</a>, will also incorporate the gala dinners for the finals of the <a href="/events/cream-awards.html">Cream Awards</a> and <a href="/events/dadi-awards.html">Dadi Awards</a>. The <a href="/">full programme of events</a> is available on this website.</p>
+<p>John Prior, Director of Projects and Service Delivery at twentysix in Leeds, who led the website development project and is on the steering group for the Festival, said: “The line-up of events and the diverse range of subjects will make this a great month to be in Leeds for anyone who is interested in digital.</p>
+
+<p>“It’s been a truly collaborative event a long time in the making, with everyone involved volunteering their time and company resources for free.</p>
+<p>“The fact that it has reached the scale it has, with more than 50 events across an entire month, is a great endorsement of the depth and breadth of the city’s digital sector and something Leeds should be rightly proud of.”</p>
+
+				
+				
+			</div>
+CONTENT_0
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat
