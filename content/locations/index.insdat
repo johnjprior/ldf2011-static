@@ -19,7 +19,7 @@ CONTENT_0:
 				
 			</div>
 CONTENT_0
-WAITCONTENT_1:
+CONTENT_1:
 			<div class="block">
 								
 				<div class="post-title">
@@ -27,11 +27,11 @@ WAITCONTENT_1:
 					<p>&nbsp;</p>
 				</div>
 				
-					<p>We've a series of checkins and badges exclusive to Festival goers coming up - watch this space for details.
+					<p>We've also got our locations as a <a href="https://foursquare.com/ldsdigital/list/leeds-digital-festival-events-2011">list on Foursquare</a> that you can follow, to make it easier to check in at the events you're attending.</p>
 					</p>
 				
 			</div>
-WAITCONTENT_1
+CONTENT_1
 INCLUDE_0: about_nav.insdat
 INCLUDE_1: shared_promo1.insdat
 INCLUDE_2: shared_promo2.insdat
