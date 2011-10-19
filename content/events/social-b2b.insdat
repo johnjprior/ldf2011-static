@@ -1,0 +1,79 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: Social B2B
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Social B2B</h2>
+					<p><span>22nd November 2011, 5:00PM</span> 	
+The Loft</p>
+				</div>
+				
+	
+<p>The importance of CSR and ethical buying has increased considerably in the past few years, indeed many believe a new era has dawned in the business world. Sustainable business models have taken the leading position in recent times of recession. At Future Arts, we would like to show you how simple it can be for your business to be on the cutting edge of these developments by proving to your customers that you are a brand they can trust.</p> 
+
+<p>We are celebrating the launch of our Social B2B certification, a label for the ethical buying of digital services. Already the first companies that have been honoured with a Social B2B certification are showing increasing sales, retaining and gaining customers whilst saving money.</p>
+
+<p>Would You Like To Know How?</p>
+
+<p>Our guest speakers will demonstrate how you can drive your business whilst gaining a social return which puts you ahead of your competition. The Social B2B certification is our commitment to delivering high quality digital media services whilst investing all our profits into youth initiatives and opportunities for young people in Leeds.</p>
+
+<h3>Guest speakers</h3>
+<ul>
+<li><a href="http://twitter.com/#!/tomriordan">Tom Riordan</a>, CEO <a href="http://www.leeds.gov.uk">Leeds City Council</a></li>
+<li>Sally-Anne Greenfield, CEO <a href="http://www.leedscommunityfoundation.org.uk/">Leeds Community Foundation</a></li>
+</ul>
+
+<h3>Schedule</h3>
+<p>
+17.00 Doors Open<br />
+17.30 Guest Speaker Tom Riordan, CEO Leeds City Council<br />
+17.45 Paula Temple, CEO Future Arts<br />
+18.00 Networking & Awards Ceremony<br />
+18.30 Guest Speaker Sally-Anne Greenfield, CEO Leeds Community Foundation<br />
+19.00 Networking & Performances Future Arts' Emerging Talent<br />
+</p>
+
+
+			</div>
+CONTENT_0
+CONTENT_1
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>22nd November 2011<br />
+<strong>Time: </strong>5:00PM - 8:00PM<br />
+<strong>Cost: </strong>Free (ticket required)<br />
+<strong>Where to get tickets: </strong><a href="http://www.futurearts.co.uk/social-b2b">Future Arts</a><br />
+<strong>Organised by: </strong><a href="http://www.futurearts.co.uk/social-b2b">Future Arts</a></p>				
+			</div>
+CONTENT_2
+CONTENT_3:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?cid=12143570147525846740&q=the+loft,&hl=en&sll=53.773677,-1.585266&sspn=0.177727,0.60614&ie=UTF8&ll=53.951641,-2.113495&spn=0.000404,0.000687&t=m&z=11&vpsrc=0">The Loft</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004af9b20970461eb506&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004af9b20970461eb506&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_3
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat
