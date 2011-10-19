@@ -125,11 +125,11 @@ CONTENT_45:
 			<div class="block">
 						
 				<div class="post-title">
-					<a href="/events/open-coffee.html" class="heading"><h2>OpenCoffee</h2></a>
+					<a href="/events/open-coffee.html" class="heading"><h2>LSxCafe</h2></a>
 					<p><span>1st November 2011, 10:00AM</span> Old Broadcasting House</p>
 				</div>
 
-<p>If you're working or playing in tech, media, creative & digital…, come and hang out, chat, demo or just network - usually around 30-40 people come along each month. To coincide with Leeds Digital Festival, OpenCoffee is inviting you to find out more about coworking. You can meet the coworkers and find out how being a member of the Old Broadcasting House community works for them.</p>
+<p>If you're working or playing in tech, media, creative & digital…, come and hang out, chat, demo or just network - usually around 30-40 people come along each month. To coincide with Leeds Digital Festival, LSxCafé (formerly OpenCoffee) is inviting you to find out more about coworking. You can meet the coworkers and find out how being a member of the Old Broadcasting House community works for them.</p>
 <p><a href="/events/open-coffee.html" class="btn more">More info</a></p>				
 			</div>
 CONTENT_45
@@ -179,10 +179,12 @@ CONTENT_41:
 						
 				<div class="post-title">
 					<a href="/events/doing-it-for-the-kids.html" class="heading"><h2>Doing it for the kids</h2></a>
-					<p><span>3rd November 2011</span></p>
+					<p><span>3rd November 2011, 5:00PM</span> Dock Street Market</p>
 				</div>
 				
-<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p><p><a href="/events/doing-it-for-the-kids.html" class="btn more">More info</a></p>				
+<p>Today’s children are ‘net natives’ who have grown up knowing nothing other than an always on connection to the internet.  How should you design digital content differently for them?</p>
+<p>This session brings together Leeds’ leading companies in this area: Dubit, Made by Pi and Numiko together with Giana Cassidy, a leading Psychologist and lecturer in Interactive Entertainment Design at Glasgow Caledonian University.</p>
+<p><a href="/events/doing-it-for-the-kids.html" class="btn more">More info</a></p>				
 			</div>
 CONTENT_41
 CONTENT_40:
@@ -242,30 +244,8 @@ CONTENT_37:
 CONTENT_37
 CONTENT_36:
 <a name="10112011"></a>
-			<div class="block">
-						
-				<div class="post-title">
-					<a href="/events/tedx-leeds.html" class="heading"><h2>TedX Leeds</h2></a>
-				
-					<p><span>10th November 2011</span> Northern Ballet</p>
-				</div>
-				
-<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
-<p><a href="/events/tedx-leeds.html" class="btn more">More info</a></p>				
-			</div>
 CONTENT_36
 CONTENT_35:
-			<div class="block">
-						
-				<div class="post-title">
-					<a href="/events/northern-user-experience.html" class="heading"><h2>Northern User Experience</h2></a>
-
-					<p><span>10th November 2011, 6:30PM</span> Round Foundry</p>
-				</div>
-				
-<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
-<p><a href="/events/northern-user-experience.html" class="btn more">More info</a></p>			
-			</div>
 CONTENT_35
 CONTENT_34:
 			<div class="block">
@@ -348,11 +328,10 @@ CONTENT_28:
 						
 				<div class="post-title">
 					<a href="/events/ignite.html" class="heading"><h2>Ignite</h2></a>
-				
-					<p><span>15th November 2011</span></p>
+									<p><span>15th November 2011, 6:00PM</span> Old Broadcasting House</p>
 				</div>
 				
-<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+<p>Ignite is an ongoing series of speedy presentations. They can range from <cite>My Life In Twenty Graphs</cite> to <cite>Could Hardware Hacking Save Us?</cite>, any topic that geeks hold dear. Each speaker gets only five minutes and twenty slides that auto-advance every fifteen seconds.</p>
 <p><a href="/events/ignite.html" class="btn more">More info</a></p>				
 			</div>
 CONTENT_28
@@ -377,7 +356,7 @@ CONTENT_26:
 					<p><span>16th November 2011, 6:00PM</span> Round Foundry</p>
 				</div>
 				
-<p>The full details of this event will be coming soon - we'll have them up here as soon as possible.</p>
+<p>Leeds Social Media Surgery is a free advice session for community and voluntary groups, clubs, societies and small arts organisations. Come along to find out how you can use free web sites and services to organise activities, promote events, raise funds, collect feedback from your participants and more.</p>
 <p><a href="/events/social-media-surgery.html" class="btn more">More info</a></p>				
 			</div>
 CONTENT_26
@@ -424,7 +403,7 @@ CONTENT_22:
 					<p><span>20th November 2011, 12:00PM</span></p>
 				</div>
 				
-<p>CheckIn CheckOff is Leeds’ biggest digital adventure. Teams will need to use their skills, imagination and smartphones to uncover six top secret locations, successfully complete creative tasks & arrive ready for the final challenge at destination six ...!</p>
+<p>Combining digital trickery with lesser-known parts of Leeds, CheckIn CheckOff is an ambitious project that wants people to see the potential in both the under-appreciated parts of the world of technology, as well as of the city itself.</p>
 <p><a href="/events/checkincheckoff.html" class="btn more">More info</a></p>				
 			</div>
 CONTENT_22
@@ -566,7 +545,7 @@ CONTENT_11:
 						
 				<div class="post-title">
 					<a href="/events/ruby-thing.html" class="heading"><h2>Ruby Thing</h2></a>
-					<p><span>24th November 2011</span> Mr Foley's Cask Ale House</p>
+					<p><span>24th November 2011, 6:00PM</span> Mr Foley's Cask Ale House</p>
 				</div>
 				
 <p>Leeds Ruby Thing is a fun and informal social event for anyone interested in the Ruby programming language. You don't have to be an expert in Ruby - we're just a friendly bunch who enjoy beer and geeky chat.</p>
@@ -615,6 +594,17 @@ CONTENT_8:
 				
 <p>An evening of conversation with ace technology journalist and technologist Ben Hammersley.</p>
 <p><a href="/events/digital-disruption.html" class="btn more">More info</a></p>				
+			</div>
+						<div class="block">
+						
+				<div class="post-title">
+					<a href="/events/northern-user-experience.html" class="heading"><h2>Northern User Experience</h2></a>
+
+					<p><span>28th November 2011, 6:30PM</span> Round Foundry</p>
+				</div>
+				
+<p>November ’s Northern User Experience event, part of the Leeds Digital Festival, is tying in with World Usability Day. This year’s subject is Education: Designing for Social Change and Derek Foster, part time lecturer at the University of Lincoln, will present his current research on social networking usage to reduce domestic energy use.</p>
+<p><a href="/events/northern-user-experience.html" class="btn more">More info</a></p>			
 			</div>
 CONTENT_8
 CONTENT_7:

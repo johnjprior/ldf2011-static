@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
-<meta property="og:image" content="http://www.leedsdigitalfestival.com/icon.png" />
+<meta property="og:image" content="http://www.leedsdigitalfestival.com/img/logos/LDF-logo.gif" />
 <meta name="description" content="Leeds Digital Festival is a celebration of digital technology and platforms. The digital industry spans business, art, culture, education and lifestyle; and the festival features a range of events, shows, lectures, and social events to bring the entire community together." />
 
 	<title>Brand guidelines | Leeds Digital Festival 2011</title>
@@ -11,7 +11,8 @@
 	<link rel="shortcut icon" href="/icon.png">
 	<link rel="apple-touch-icon-precomposed" href="/icon.png">
 	<link type="text/plain" rel="author" href="/humans.txt">
-
+<script type="text/javascript" src="/scripts/configurator.js"></script>
+<link rel="stylesheet" href="/css/configurator.css">
 </head>
 <body>
 
@@ -159,147 +160,50 @@
 			</div>
 			<div class="block">
 			
+				<a name="imagelogo"></a>
 				<div class="post-title">
-					<h2>Website logo</h2>
+					<h2>Logos and images</h2>
 					<p>&nbsp;</p>
 				</div>
 			
-					<p>Use the code below and paste it into your website HTML to get a copy of our logo on your site like this (you can skip steps 1-3 if they're not possible, but you won't get the full effect - you might want to download the image version instead, then):</p>
-					<ol>
-					<li>Download the <a href="/rsc/0419b.zip">zip file with the fonts for the logo</a></li>
-					<li>Unzip the fonts into a directory on your website</li>
-					<li>Add the path of the directory into which you've unzipped the fonts into the "Font path" field (e.g. <em>/mycss/myfonts/</em>)</li>
-					<li>Adjust the size of the logo using the bigger/smaller buttons</li>
-					<li>Copy the code from the "Logo code" field and add it to your website</li>
-					</ul>
-					<p>To get the full impact and use the proper font, you'll need to download this zip
-<style type="text/css">			
-.ldflogo{
-    text-shadow:
-    -1px -1px 0 #13c115,
-    -2px -2px 0 #13c115,
-    -3px -3px 0 #13c115,
-    -4px -4px 0 #13c115,
-    -5px -5px 0 #13c115;
-	font-weight:normal;
-	font-size: 7em;
-	margin-bottom: 1rem;
-	font-family: '04b19Regular',Impact,sans-serif;
-	font-weight: normal;
-    line-height: 0.66;
-    text-transform: uppercase;
-	color: #1BDD1D;
-}
-.ldflink,.ldflink:hover,.ldflink:active{
-	text-decoration: none;
-}
+					<p>Here are some images you can use for either print or screen. If you want to add <a href="#htmllogo">our html/css logo</a> to your site, we've made it easy (well, ish) for you.</p>
 
-</style>
-<script type="text/javascript">
-var fontSize = 7;
-var shadowa = 1;
-var shadowb = 2;
-var shadowc = 3;
-var shadowd = 4;
-var shadowe = 5;
-var margin = 1;
-var lineHeight = 0.66;
-var modifier = 1.1;
-
-function embiggen() {
-	if (fontSize > 18) {
-		document.getElementById("embiggen").disabled = true;
-		return;
-	}
-	document.getElementById("emsmallen").disabled = false;
-
-	fontSize = fontSize * modifier;
-	shadowa = shadowa * modifier;
-	shadowb = shadowb * modifier;
-	shadowc = shadowc * modifier;
-	shadowd = shadowd * modifier;
-	shadowe = shadowe * modifier;
-
-	updateLogoShow();
-	updateLogoCode();
-}
-function emsmallen() {
-	if (fontSize < 1.7) {
-		document.getElementById("emsmallen").disabled = true;
-		return;
-	}
-	document.getElementById("embiggen").disabled = false;
-
-	fontSize = fontSize / modifier;
-	shadowa = shadowa / modifier;
-	shadowb = shadowb / modifier;
-	shadowc = shadowc / modifier;
-	shadowd = shadowd / modifier;
-	shadowe = shadowe / modifier;
-
-	updateLogoShow();
-	updateLogoCode();
-}
-
-function updateLogoShow() {
-	document.getElementById("eg").style.fontSize = fontSize+'em';
-	document.getElementById("eg").style.textShadow = 	"-" + shadowa + "px -" + shadowa + "px 0 #13c115, " +
-														"-" + shadowb + "px -" + shadowb + "px 0 #13c115, " +
-														"-" + shadowc + "px -" + shadowc + "px 0 #13c115, " +
-														"-" + shadowd + "px -" + shadowd + "px 0 #13c115, " +
-														"-" + shadowe + "px -" + shadowe + "px 0 #13c115";
-}
-
-var stylestart = "<style type='text/css'>";
-var ldflogostatic = ".ldflogo{text-transform: uppercase;font-family: '04b19Regular',Impact,sans-serif;font-weight: normal;color: #1BDD1D;font-weight:normal;";
-var ldflink = ".ldflink,.ldflink:hover,.ldflink:active{text-decoration: none;}";
-var styleend = "</style>";
-var html = '<a href="http://www.leedsdigitalfestival.com" class="ldflink"><h1 class="ldflogo" id="eg">Leeds Digital Festival</h1></a>';
-var fontPath;
-
-function updateFontPath() {
-	fontPath = document.logocustomiser.elements["fontpath"].value;
-	updateLogoCode();
-}
-
-function updateLogoCode() {
-
-	document.logocustomiser.elements["logocode"].value =
-		stylestart + "\n" +
-		ldflink + "\n" +
-		ldflogostatic + "\n" +
-		"text-shadow:" +
-			"-" + shadowa + "px -" + shadowa + "px 0 #13c115," + "\n" +
-			"-" + shadowb + "px -" + shadowb + "px 0 #13c115," + "\n" +
-			"-" + shadowc + "px -" + shadowc + "px 0 #13c115," + "\n" +
-			"-" + shadowd + "px -" + shadowd + "px 0 #13c115," + "\n" +
-			"-" + shadowe + "px -" + shadowe + "px 0 #13c115;" + "\n" +
-		"font-size: " + fontSize + "em;" + "\n" +
-		"margin-bottom: " + margin + "rem;" + "\n" +
-		"line-height: " + lineHeight + ";}" + "\n" +
-		"@font-face {font-family:'04b19Regular';" +
-		"src:url('" + fontPath + "04b_19__-webfont.eot');" +
-		"src:local('?'), " +
-		"url('" + fontPath + "04b_19__-webfont.woff') format('woff'), " +
-		"url('" + fontPath + "04b_19__-webfont.ttf') format('truetype'), " +
-		"url('" + fontPath + "04b_19__-webfont.svg#04b19Regular') format('svg');" + "\n" +
-		"font-weight:normal;" + "\n" +
-		"font-style:normal;}" + "\n" +
-		styleend + "\n" + html;
-}
-onload = function() {updateLogoCode()};
-</script>
+					<h3>Block logo, single line</h3>
+					<p><a href="/img/logos/block-logo-1-line.png"><img src="/img/logos/block-logo-1-line.png" width="500"/></a></p>
+					<h3>Block logo, triple line</h3>
+					<p><a href="/img/logos/block-logo-3-line.png"><img src="/img/logos/block-logo-3-line.png" /></a></p>
+					<h3>Pixel logo, green background</h3>
+					<p><a href="/img/logos/LDF-logo.gif"><img src="/img/logos/LDF-logo.gif" /></a> </p>
+					<h3>3D logo, monochrome</h3>
+					<p><a href="/img/logos/LDF-block.jpg"><img src="/img/logos/LDF-block.jpg" width="500" /></a></p>
+					<h3>Pixel logo, green text white background</h3>
+					<p><a href="/rsc/LDF_Logo.pdf">Download PDF</a></p>
+				
+			</div>
+			<div class="block">
+				<a name="htmllogo"></a>
+				<div class="post-title">
+					<h2>HTML/CSS logo code</h2>
+					<p>&nbsp;</p>
+				</div>
 <form name="logocustomiser" id="logocustomiser">
 <fieldset>
-
-        <p>
-            <label for="fontpath" class="flabel">Font path</label>
-            <input type=text class=text-input name="fontpath" id="fontpath" onchange="updateFontPath();"/>
-<p><a href="javascript:embiggen()" class="btn more" id="embiggen">Bigger</a> <a href="javascript:emsmallen()" class="btn less"  id="emsmallen">Smaller</a></p>
-<p>&nbsp;</p><p>&nbsp;</p>
-						<h1 class="ldflogo" id="eg">Leeds Digital Festival</h1>
-            <label for=logocode>Logo code</label>
-            <textarea rows=10 cols=50 id="logocode"></textarea>
+					<p>Use the code below and paste it into your website HTML to get a copy of our logo on your site like this (you can skip steps 1-3 if you can't save files to your website, but you won't get the full effect - you might want to download <a href="#imagelogo">one of the image versions</a> instead, then):</p>
+					<ol>
+					<li>Download the <a href="/rsc/04b19.zip">zip file with the fonts for the logo</a></li>
+					<li>Unzip the fonts into a directory on your website</li>
+					<li>Add the path of the directory into which you've unzipped the fonts into the "Font path" field (e.g. <em>/mycss/myfonts/</em>)<br /><br />
+					            <label for="fontpath" class="flabel">Font path</label>
+            <input type=text class=text-input name="fontpath" id="fontpath" onchange="updateFontPath();"/></li>
+					<li>Adjust the size of the logo using the bigger/smaller buttons<br />
+					<a href="javascript:embiggen()" class="btn more" id="embiggen">Bigger</a> <a href="javascript:emsmallen()" class="btn less"  id="emsmallen">Smaller</a></li>
+				
+     <p>&nbsp;</p>
+						<h2 class="ldflogo" id="eg">Leeds Digital Festival</h2>
+			<li>Copy the code below and add it to your website<br /><br />
+						<label for=logocode>Logo code</label>
+            <textarea rows=10 cols=50 id="logocode"></textarea>	</li>
+					</ol>
 </fieldset>
 </form>
 			</div>
@@ -332,6 +236,20 @@ onload = function() {updateLogoCode()};
 		</div>
 
 	</div>
+
+    		<script type="text/javascript">
+if ( window.addEventListener ) {
+window.addEventListener( "load", updateLogoCode, false );
+}
+else
+if ( window.attachEvent ) {
+window.attachEvent( "onload", updateLogoCode );
+} else
+if ( window.onLoad ) {
+window.onload = updateLogoCode;
+}
+</script>
+
 		<script type="text/javascript">
 			  var _gaq = _gaq || [];
 			  _gaq.push(['_setAccount', 'UA-22368289-1']);
