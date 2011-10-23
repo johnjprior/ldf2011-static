@@ -221,7 +221,6 @@ html{
 	line-height:1.5; /* 18px */
 	color:#666;
 	background:url(/img/css/page/01.gif) fixed #fff;
-	background:url(/img/css/page/02.gif) fixed #fff;
 	min-height:100%;
 	padding:2%;
 	overflow-y:scroll;
@@ -324,7 +323,7 @@ Abstraction, as per http://csswizardry.com/2011/09/the-nav-abstraction/
 }
 .link-block .current a:before{
 	content:"";
-	width:12px;
+	width:24px;
 	height:12px;
 	display:block;
 	position:absolute;
@@ -396,6 +395,7 @@ Abstraction, as per http://csswizardry.com/2011/09/the-nav-abstraction/
 /*--- HEADINGS ---*/
 h1,.alpha{
 	font-size:7em; /* 84px */
+	padding-left: 6px;
 }
 h2,.beta{
 	font-size:4em; /* 48px */
@@ -500,7 +500,9 @@ a.btn,.page-tag {
 	font-family:"Helvetica Neue", Impact, sans-serif;
 }
 a.btn{
-	font-size:2.0em;
+	font-size:1.5em;
+	padding:0.5em;
+	text-transform:lowercase;
 }
 
 .btn.more:after{
