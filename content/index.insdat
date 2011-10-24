@@ -371,17 +371,7 @@ CONTENT_26:
 			</div>
 CONTENT_26
 CONTENT_25:
-			<div class="block">
-						
-				<div class="post-title">
-					<a href="/events/beyond-print.html" class="heading"><h2>Yorkshire Evening Post Presents: Beyond Print</h2></a>
-				
-					<p><span>16th November 2011, 6:00PM</span> Yorkshire Evening Post</p>
-				</div>
-				
-<p>A chance for the city’s digital community to find out more about the Yorkshire Post and the Yorkshire Evening Post.</p>
-<p><a href="/events/beyond-print.html" class="btn more">More info</a></p>				
-			</div>
+
 CONTENT_25
 CONTENT_24:
 <a name="17112011"></a>
@@ -605,9 +595,9 @@ CONTENT_8:
 <p>An evening of conversation with ace technology journalist and technologist Ben Hammersley.</p>
 <p><a href="/events/digital-disruption.html" class="btn more">More info</a></p>				
 			</div>
-						<div class="block">
 CONTENT_8
-CONTENT_7:						
+CONTENT_7:
+		<div class="block">		
 				<div class="post-title">
 					<a href="/events/northern-user-experience.html" class="heading"><h2>Northern User Experience</h2></a>
 

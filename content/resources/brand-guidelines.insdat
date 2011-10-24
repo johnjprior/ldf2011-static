@@ -59,7 +59,7 @@ CONTENT_2:
 					            <label for="fontpath" class="flabel">Font path</label>
             <input type=text class=text-input name="fontpath" id="fontpath" onchange="updateFontPath();"/></li>
 					<li>Adjust the size of the logo using the bigger/smaller buttons<br />
-					<a href="javascript:embiggen()" class="btn more" id="embiggen">Bigger</a> <a href="javascript:emsmallen()" class="btn less"  id="emsmallen">Smaller</a></li>
+					<a href="javascript:embiggen()" class="btn plus" id="embiggen">Bigger</a> <a href="javascript:emsmallen()" class="btn less"  id="emsmallen">Smaller</a></li>
 					
      <p>&nbsp;</p>
 						<h2 class="ldflogo" id="eg">Leeds Digital Festival</h2>
