@@ -9,10 +9,10 @@ CONTENT_0:
 				<a href="/about/"><strong class="page-tag">About</strong></a>
 				
 				<div class="post-title">
-					<h2>Sponsors</h2>
+					<h2>Festival sponsors</h2>
 					<p>&nbsp;</p>
 				</div>
-				<p>We'd like to thank our sponsors for their support.</p>
+				<p>We'd like to thank the festival sponsors for their support.</p>
 </div>
 
 CONTENT_0
@@ -26,7 +26,7 @@ CONTENT_1:
 				</div>
 				
 
-					<p><img class="inlimg" src="/img/sponsors/leeds-brewery.jpg" align="left">Leeds Brewery was established in 2007. It is the city’s only independent brewery. We combine the latest in brewing technology with time honoured skills and use the finest ingredients – choicest English hops, select British malted barley and our unique Yorkshire yeast – to create truly exceptional beers.</p>
+					<p><a href="http://www.leedsbrewery.co.uk"><img class="inlimg" src="/img/sponsors/leeds-brewery-large.jpg" align="left"></a>Leeds Brewery was established in 2007. It is the city’s only independent brewery. We combine the latest in brewing technology with time honoured skills and use the finest ingredients – choicest English hops, select British malted barley and our unique Yorkshire yeast – to create truly exceptional beers.</p>
 					<p><a href="http://www.leedsbrewery.co.uk" class="btn event">Leeds Brewery Website</a></p>	
 </div>
 
@@ -41,7 +41,7 @@ CONTENT_2:
 				</div>
 				
 
-					<p><img class="inlimg" src="/img/sponsors/yorkshire-evening-post.jpg" align="left">The Yorkshire Evening Post was first published on September 1, 1890. It was launched to compete with the Yorkshire Evening News and the Leeds Evening Express.</p>
+					<p><a href="http://www.yorkshireeveningpost.co.uk/"><img class="inlimg" src="/img/sponsors/yorkshire-evening-post.gif"></a><br />The Yorkshire Evening Post was first published on September 1, 1890. It was launched to compete with the Yorkshire Evening News and the Leeds Evening Express.</p>
 
 <p>In 1963 it absorbed its great rival, the Yorkshire Evening News.</p>
 
@@ -61,7 +61,7 @@ CONTENT_2:
 				</div>
 				
 
-					<p><img class="inlimg" src="/img/sponsors/orchard.jpg" align="left">Orchard is delighted to sponsor the LDF because its events are organised for digital people by digital people. In our 19 years of working in Creative and Digital recruitment we have always supported grass roots events - and the calendar for this year’s festival is second to none.</p>
+					<p><a href="http://www.orchard.co.uk"><img class="inlimg" src="/img/sponsors/orchard-large.jpg"></a><br />Orchard is delighted to sponsor the LDF because its events are organised for digital people by digital people. In our 19 years of working in Creative and Digital recruitment we have always supported grass roots events - and the calendar for this year’s festival is second to none.</p>
 <p><a href="http://www.orchard.co.uk" class="btn event">Orchard Website</a></p>	
 
 </div>
