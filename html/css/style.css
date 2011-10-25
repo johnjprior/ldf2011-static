@@ -124,6 +124,10 @@ h1,h2,h3,h4,h5,h6,
 	margin-bottom: 5px;
 }
 
+.spimg {
+	margin: 3px 6px 0px 0px;
+}
+
 .block,.post-title,.event-cal caption{
 	border:1px solid #1bdd1d;
 }
@@ -147,6 +151,13 @@ p,ul,ol,dl,table,hr,dd,blockquote,
 .block,.post-title{
 	margin-bottom:12px;
 	margin-bottom:1rem;
+	margin-top: 20px;
+}
+ul.spul{
+	margin-bottom:0px;
+	margin-top: 0px;
+	list-style: none;
+	margin-left:0em;
 }
 
 .event-cal .current span,
@@ -381,6 +392,14 @@ Abstraction, as per http://csswizardry.com/2011/09/the-nav-abstraction/
 	float: left;
 }
 
+.spleft {
+	position:relative;
+	float: left;
+}
+.spright {
+	display:table;
+}
+
 .btncontainer {
 	position:relative;
 	float: right;
@@ -505,7 +524,27 @@ a.btn{
 	text-transform:lowercase;
 }
 
+.btn.more {
+    position:absolute;
+    right: -10px;
+    bottom: -10px
+}
+
+.btn.event {
+    position:absolute;
+    right: -10px;
+    bottom: -10px
+}
+
+.btn.nav {
+    position:relative;
+    bottom: -20px
+}
+
 .btn.more:after{
+	content:" +";
+}
+.btn.plus:after{
 	content:" +";
 }
 .btn.less:after{
