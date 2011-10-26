@@ -151,7 +151,10 @@ p,ul,ol,dl,table,hr,dd,blockquote,
 .block,.post-title{
 	margin-bottom:12px;
 	margin-bottom:1rem;
-	margin-top: 20px;
+	margin-top: 1px;
+}
+div.block {
+	margin-top: 19px;
 }
 ul.spul{
 	margin-bottom:0px;
