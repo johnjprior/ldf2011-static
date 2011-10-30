@@ -8,8 +8,8 @@
 
 	<link rel="stylesheet" href="/css/style.css">
 	
-	<link rel="shortcut icon" href="/icon.png">
-	<link rel="apple-touch-icon-precomposed" href="/icon.png">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" href="/LDF-ios-logo.png">
 	<link type="text/plain" rel="author" href="/humans.txt">
 <!-- insertif: NAME="Home" -->
 <script type="text/javascript">
@@ -26,7 +26,7 @@ function writeJumpButton() {
 	  return false;
 	}
 	
-	document.getElementById("jumpbutton").innerHTML = '<p><a href="#' + link + '" onclick="jumpToDate();" class="btn">Next event</a></p>';
+	document.getElementById("jumpbutton").innerHTML = '<p><a href="#' + link + '" class="btn event">Jump to the next event</a></p>';
 }
 </script>
 <!-- insertifend -->
@@ -189,21 +189,19 @@ function writeJumpButton() {
 <!-- insertelsif: SUB_PAGE -->
 				<div class="block">
 					<strong class="page-tag">Navigation</strong>
-					<p>&nbsp;</p><br />
 				<p>
 
-				<a href="/<!-- insert: ACTIVE_NAV -->/" class="btn">
+				<a href="/<!-- insert: ACTIVE_NAV -->/" class="btn nav">
 				Back to <!-- insert: NAV_NAME --></a>
 				&nbsp;&nbsp;
-				<a href="/" class="btn">Back to Home</a>
+				<a href="/" class="btn nav">Back to Home</a>
 				</p>
 				</div>
 <!-- insertelse -->
 				<div class="block">
 					<strong class="page-tag">Navigation</strong>					
-					<p>&nbsp;</p><br />
-				<p>
-				<a href="/" class="btn">Back to Home</a>
+					<p>
+				<a href="/" class="btn nav">Back to Home</a>
 				</p>
 				</div>
 <!-- insertifend -->
