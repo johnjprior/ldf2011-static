@@ -544,6 +544,11 @@ a.btn{
     bottom: -20px
 }
 
+.btn.guide {
+    position:absolute;
+    bottom: -10px
+}
+
 .btn.more:after{
 	content:" +";
 }
