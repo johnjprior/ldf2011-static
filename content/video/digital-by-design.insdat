@@ -1,0 +1,105 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: video
+SUB_PAGE: YES
+NAV_NAME: Video
+NAME: Digital by Design
+CONTENT_0:
+			<div class="block">
+						<a href="/video/"><strong class="page-tag">Video</strong></a>
+				<div class="post-title">
+					<h2>Digital by Design</h2>
+					<p><span>19th October 2011</span> The Adelphi</p>
+				</div>
+ <p> Our panel for October was made up of some of Leeds' top designers, talking about digital design.</p>
+ <ul>
+<li>Gaz Battersby, Creative Director, Epiphany</li>
+<li>Kevin Charlton, Digital Creative Director, fuse8</li>
+<li>Dave Eccles, Director/Founder, numiko</li>
+<li>Rob Farnell, Senior Creative Designer, BSkyB </li>
+<li>Paul Mackenzie, Designer and Creator, Max Software</li>
+<li>Matt Seward, Managing Diretor, kilo75</li>
+<li>Ian Thomas, Creative Director, Order Of Magnitude</li>
+</ul>
+				
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part One</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/k-he5Cm9waE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/k-he5Cm9waE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Two</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/cWS48wzo5b0?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/cWS48wzo5b0?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_2
+CONTENT_3:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Three</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/yU2ONhCoXMM?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/yU2ONhCoXMM?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_3
+CONTENT_4:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Four</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/Lpl3eLGwxAE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/Lpl3eLGwxAE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_4
+CONTENT_5:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Five</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/gU9qOMLmc-0?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/gU9qOMLmc-0?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_5
+CONTENT_6:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Part Six</h2>
+					<p>&nbsp;</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/fSgUPNDNKoE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/fSgUPNDNKoE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+
+				
+			</div>
+CONTENT_6
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_videos.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

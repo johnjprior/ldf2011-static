@@ -3,7 +3,7 @@ ACTIVE_NAV: video
 NAV_NAME: Video
 NAME: Video
 CONTENT_REVERSE: Yes
-CONTENT_3:
+CONTENT_4:
 			<div class="block">
 				
 				<strong class="page-tag">Video</strong>
@@ -16,6 +16,18 @@ CONTENT_3:
 <p>We don't have video from all our events, but whenever we have it, we'll publish it here. Or you could <a href="http://www.youtube.com/user/DigitalLeeds">subscribe to our channel on Youtube</a>.</p>
 				
 			</div>
+CONTENT_4
+CONTENT_3:
+			<div class="block">
+						
+				<div class="post-title">
+					<a href="digital-by-design.html" class="heading"><h2>Digital by Design</h2></a>
+					<p><span>19th October 2011</span> Our panel for October was made up of some of Leeds' top designers, talking about digital design.</p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/k-he5Cm9waE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/k-he5Cm9waE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+<p>We've got the entire event captured on video - take a look.</p><p><a href="digital-by-design.html" class="btn more">More Digital by Design videos</a></p>
+				
+			</div>
 CONTENT_3
 CONTENT_2:
 			<div class="block">
@@ -25,7 +37,7 @@ CONTENT_2:
 					<p><span>21st September 2011</span> Our September lunchtime session was on mobile digital.</p>
 				</div>
 <p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/GEVwa6yt3-E?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/GEVwa6yt3-E?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
-<p>We're still adding the videos for these, but parts 2 and 3 are already available via the link.</p><p><a href="mobilise.html" class="btn more">More Mobilise videos</a></p>
+<p>Videos covering the whole event are available.</p><p><a href="mobilise.html" class="btn more">More Mobilise videos</a></p>
 				
 			</div>
 CONTENT_2
