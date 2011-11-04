@@ -1,0 +1,55 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: home
+NAME: An Introduction to OpenGL
+CONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>An Introduction to OpenGL</h2>
+					<p><span>14th November 2011, 6:30PM</span> Old Broadcasting House</p>
+				</div>
+				
+				
+<p>OpenGL is a low-level, language agnostic, OS and hardware independent API for rendering 3D graphics using GPU acceleration. This talk, by Paul Brook, will introduce how OpenGL renders a 3D model to the screen, how to use it, and how it's evolved to make use of the capabilities of modern shader-based hardware.</p>
+	
+			</div>
+CONTENT_0
+CONTENT_1:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>The Details</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+<strong>Date: </strong>14th November 2011<br />
+<strong>Time: </strong>6:30PM - 8:30PM<br />
+<strong>Cost: </strong>Free<br />
+<strong>Where to get tickets: </strong>Just turn up on the night<br />
+<strong>Links: </strong><a href="http://www.wylug.org.uk/2011/10/meeting-14th-november-2011-an-introduction-to-opengl/">West Yorkshire Gnu/Linux User Group website</a><br />
+<strong>Organised by: </strong><a href="http://twitter.com/#!/monicatailor">Monica Tailor</a> and <a href="http://twitter.com/#!/jamesholden">James Holden</a>
+</p>			
+			</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Location</h2>
+					<p><a href="http://maps.google.co.uk/maps/place?ftid=0x48795c02550f8a93:0xf781b4dc64100a2c&q=Old+Broadcasting+House,+Woodhouse+Lane,+Leeds&hl=en&sll=53.805745,-1.548793&sspn=0.006295,0.006295&ie=UTF8&ll=53.811029,-1.565294&spn=0.000013,0.000021&t=m&z=16&vpsrc=0">Old Broadcasting House</a></p>
+				</div>
+<p>			
+<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca35a5b3d606a4f&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca35a5b3d606a4f&amp;source=embed" >View a full map</a>
+</p>
+			</div>
+CONTENT_2
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: shared_promo1.insdat
+INCLUDE_1: shared_promo2.insdat
+INCLUDE_2: shared_promo3.insdat
+INCLUDE_3: shared_promo4.insdat
+INCLUDE_4: shared_promo5.insdat
+INCLUDE_5: mailing_list.insdat
