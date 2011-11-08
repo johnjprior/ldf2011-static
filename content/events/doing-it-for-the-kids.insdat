@@ -34,6 +34,23 @@ CONTENT_1:
 			<div class="block">
 						
 				<div class="post-title">
+					<h2>Reports from the event</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+			<ul class="nav link-block">
+				<li><a href="http://numiko.com/blog/2011/leeds-digital-festival-%E2%80%93-doing-it-for-the-kids/">
+					<span>Tom Evans</span> on being a panellist at Doing it for the Kids
+				</a></li>
+			</ul>
+</p>
+</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
 					<h2>The Details</h2>
 					<p>&nbsp;</p>
 				</div>
@@ -45,8 +62,8 @@ CONTENT_1:
 <strong>Where to get tickets: </strong><a href="http://doingitforthekids.eventbrite.com/">Eventbrite</a><br />
 <strong>Organised by: </strong><a href="http://twitter.com/#!/IdleSi"><span>Si Wilson</a> and <a href="http://twitter.com/#!/daveeccles">Dave Eccles</a></p>				
 			</div>
-CONTENT_1
-CONTENT_2:
+CONTENT_2
+CONTENT_3:
 			<div class="block">
 						
 				<div class="post-title">
@@ -58,7 +75,7 @@ CONTENT_2:
 </p>
 			</div>
 
-CONTENT_2
+CONTENT_3
 FACEBOOK_COMMENTS: YES
 INCLUDE_0: shared_promo1.insdat
 INCLUDE_1: shared_promo2.insdat

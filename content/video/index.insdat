@@ -3,7 +3,7 @@ ACTIVE_NAV: video
 NAV_NAME: Video
 NAME: Video
 CONTENT_REVERSE: Yes
-CONTENT_4:
+CONTENT_5:
 			<div class="block">
 				
 				<strong class="page-tag">Video</strong>
@@ -14,6 +14,18 @@ CONTENT_4:
 				</div>
 				
 <p>We don't have video from all our events, but whenever we have it, we'll publish it here. Or you could <a href="http://www.youtube.com/user/DigitalLeeds">subscribe to our channel on Youtube</a>.</p>
+				
+			</div>
+CONTENT_5
+CONTENT_4:
+			<div class="block">
+						
+				<div class="post-title">
+					<h2>Launch Party</h2>
+					<p><span>1st November 2011</span> </p>
+				</div>
+<p><object style="height: 300px; width: 500px"><param name="movie" value="http://www.youtube.com/v/4kBz8IUKVs0?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/4kBz8IUKVs0?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></object></p>
+<p>A few words from some of the event organisers and sponsors at this year's Leeds Digital Festival Launch party</p>
 				
 			</div>
 CONTENT_4
