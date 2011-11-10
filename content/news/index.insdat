@@ -3,11 +3,24 @@ ACTIVE_NAV: news
 NAV_NAME: News
 NAME: News
 CONTENT_REVERSE: Yes
-CONTENT_5:
+CONTENT_6:
 			<div class="block">
 				
 				<a href="/news/"><strong class="page-tag">News</strong></a>
 				
+
+				<div class="post-title">
+					<a href="digitally-leeds-awards-shortlist-announced.html" class="heading"><h2>Digitally Leeds Awards Shortlist Announced</h2></a>
+					<p><span>9th November 2011</span></p>
+				</div>
+<p>The inaugural Digitally Leeds Awards have announced their shortlist for 2011.</p>
+
+<p><a href="digitally-leeds-awards-shortlist-announced.html" class="btn more">Read more</a></p>					
+			</div>
+CONTENT_6
+CONTENT_5:
+			<div class="block">
+			
 
 				<div class="post-title">
 					<a href="programme-of-events-announced.html" class="heading"><h2>Festival programme of events announced</h2></a>

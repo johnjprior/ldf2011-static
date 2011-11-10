@@ -1,0 +1,32 @@
+TEMPLATE_PATH: content_template.txt
+ACTIVE_NAV: news
+NAV_NAME: News
+NAME: Digitally Leeds Awards Shortlist Announced
+SUB_PAGE: YES
+CONTENT_0:
+			<div class="block">
+
+					
+				<a href="/news/"><strong class="page-tag">News</strong></a>
+				
+				<div class="post-title">
+					<h2>Digitally Leeds Awards Shortlist Announced</h2>
+					<p><span>9th November 2011</span></p>
+				</div>
+				
+<p>The inaugural Digitally Leeds Awards have <a href="http://www.digitallyleeds.com/awards/awards.html">announced their shortlist for 2011</a>.</p> 
+<p>The Awards include traditional categories such as the Large Team and Best Design Awards, but also categories that reflect its focus on the Leeds digital community, such as the Best Freelancer, Best Leeds Blog and Leeds Star Awards.</p>
+<p>The winners will be announced at a <a href="http://www.leedsdigitalfestival.com/events/digitally-leeds-awards.html">ceremony at Alea Casino on the 30th November</a>, marking the finale to the 2011 Leeds Digital Festival. Tickets are available at <a href="http://leedsawards.eventbrite.com/">Eventbrite</a>.</p>
+
+				
+				
+			</div>
+CONTENT_0
+FACEBOOK_COMMENTS: YES
+INCLUDE_0: recent_news.insdat
+INCLUDE_1: shared_promo1.insdat
+INCLUDE_2: shared_promo2.insdat
+INCLUDE_3: shared_promo3.insdat
+INCLUDE_4: shared_promo4.insdat
+INCLUDE_5: shared_promo5.insdat
+INCLUDE_6: mailing_list.insdat

@@ -21,22 +21,28 @@ CONTENT_1:
 CONTENT_1
 CONTENT_0:
 <div class="block">
-
-
 			<h2>External links</h2>
-
-
-
 			<ul class="nav link-block">
+				<li><a href="http://beyondgdnleeds.wordpress.com/2011/11/09/write-publish-read-at-leeds-digital-festival/#ldf2011" class="block">
+					<span>John Baron</span> on Write-Publish-Read
+				</a></li>
+				<li><a href="http://www.creativetimes.co.uk/articles/gaming-and-the-call-of-cooperative-duty" class="block">
+					<span>The Creative Times</span> on Get Into Gaming
+				</a></li>
+				<li><a href="http://blog.madebypi.co.uk/2011/11/10/we-do-it-for-the-kids/" class="block">
+					<span>Karen Lewis</span> on being a panellist at Doing it for the Kids
+				</a></li>
+			</ul>
+			<ul class="nav link-block">
+				<li><a href="http://numiko.com/blog/2011/leeds-digital-festival-%E2%80%93-doing-it-for-the-kids/" class="block">
+					<span>Tom Evans</span> on being a panellist at Doing it for the Kids
+				</a></li>
 				<li><a href="http://www.bloomagency.co.uk/blog/search-and-social/leeds-girl-geeks-dinner-definitely-does-compute/" class="block">
 					<span>Claire Hunter-Smith</span> on Leeds Girl Geeks Dinner
 				</a></li>
 				<li><a href="http://theculturevulture.co.uk/blog/reviews/the-web-changes-everything/" class="block">
-					<span>Emma Bearman</span> reviews Web Changes Everything
-				</a></li>			
-				<li><a href="http://numiko.com/blog/2011/leeds-digital-festival-%E2%80%93-doing-it-for-the-kids/" class="block">
-					<span>Tom Evans</span> on being a panellist at Doing it for the Kids
-				</a></li>
+					<span>Matthew Phillips</span> reviews Web Changes Everything
+				</a></li>		
 			</ul>
 			<ul class="nav link-block">
 				<li><a href="http://wellbeinghq.tumblr.com/post/11570121534/social-media-mental-wellbeing-what-seems-to-be-the" class="block">
