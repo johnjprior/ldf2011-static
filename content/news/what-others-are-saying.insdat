@@ -21,7 +21,20 @@ CONTENT_1:
 CONTENT_1
 CONTENT_0:
 <div class="block">
+
+
 			<h2>External links</h2>
+			<ul class="nav link-block">
+				<li><a href="http://www.ntileeds.co.uk/blog/culture-hack-north/" class="block">
+					<span>Linda Broughton</span> on Culture Hack North
+				</a></li>
+				<li><a href="https://picasaweb.google.com/107759455861829218670/DADI2011#" class="block">
+					<span>Nick Creed's</span> photos from the DADI Awards
+				</a></li>
+				<li><a href="http://www.jimsdrumlessons.co.uk/leedsdigifestblog.html" class="block">
+					<span>Jim Gaylard</span> on the Launch Party
+				</a></li>
+			</ul>
 			<ul class="nav link-block">
 				<li><a href="http://beyondgdnleeds.wordpress.com/2011/11/09/write-publish-read-at-leeds-digital-festival/#ldf2011" class="block">
 					<span>John Baron</span> on Write-Publish-Read
