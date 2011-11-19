@@ -17,15 +17,15 @@ LH_BLOCK:
 <div class="block" class="heading">
 			<a href="/news/what-others-are-saying.html" class="heading"><h2>What others are saying</h2></a>
 			<ul class="nav link-block">
+				<li><a href="http://www.thebusinessdesk.com/yorkshire/news/245625-comment-digital-festival-showcases-unique-talents.html?news_section=54011" class="block">
+					<span>Ian Briggs</span> on Leeds Digital Festival
+				</a></li>
 				<li><a href="http://www.ntileeds.co.uk/blog/culture-hack-north/" class="block">
 					<span>Linda Broughton</span> on Culture Hack North
 				</a></li>
 				<li><a href="https://picasaweb.google.com/107759455861829218670/DADI2011#" class="block">
 					<span>Nick Creed's</span> photos from the DADI Awards
 				</a></li>
-				<li><a href="http://www.jimsdrumlessons.co.uk/leedsdigifestblog.html" class="block">
-					<span>Jim Gaylard</span> on the Launch Party
-				</a></li>
 			</ul>
-		</div>
+</div>
 LH_BLOCK
