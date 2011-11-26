@@ -17,14 +17,14 @@ LH_BLOCK:
 <div class="block" class="heading">
 			<a href="/news/what-others-are-saying.html" class="heading"><h2>What others are saying</h2></a>
 			<ul class="nav link-block">
+				<li><a href="http://www.waynehanley.com/2011/co-op-gaming/" class="block">
+					<span>Wayne Hanley</span> on Get Into Gaming
+				</a></li>
+				<li><a href="http://larrysbrainblog.wordpress.com/2011/11/24/we-put-geolocation-in-its-place/" class="block">
+					<span>Lawrence Alexander</span> on the panel at Geolocation
+				</a></li>
 				<li><a href="http://www.thebusinessdesk.com/yorkshire/news/245625-comment-digital-festival-showcases-unique-talents.html?news_section=54011" class="block">
 					<span>Ian Briggs</span> on Leeds Digital Festival
-				</a></li>
-				<li><a href="http://www.ntileeds.co.uk/blog/culture-hack-north/" class="block">
-					<span>Linda Broughton</span> on Culture Hack North
-				</a></li>
-				<li><a href="https://picasaweb.google.com/107759455861829218670/DADI2011#" class="block">
-					<span>Nick Creed's</span> photos from the DADI Awards
 				</a></li>
 			</ul>
 </div>

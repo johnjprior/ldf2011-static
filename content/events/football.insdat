@@ -1,14 +1,25 @@
 TEMPLATE_PATH: content_template.txt
 ACTIVE_NAV: home
 NAME: Dual Control
-CONTENT_0:
+OLDCONTENT_0:
 			<div class="block">
 				
 				<a href="/"><strong class="page-tag">Events</strong></a>
 						
 				<div class="post-title">
 					<h2>Dual Control</h2>
-					<p><span>26th November 2011, 10:00AM</span> Goals Leeds</p>
+					<p></p>
+				</div>
+				
+<p>Unfortunately this event has been postponed until further notice.</p>
+OLDCONTENT_0:
+			<div class="block">
+				
+				<a href="/"><strong class="page-tag">Events</strong></a>
+						
+				<div class="post-title">
+					<h2>Dual Control</h2>
+					<p></p>
 				</div>
 				
 <p>A unique digital AND analogue football tournament launches in Leeds as part of the city's digital festival.</p>
@@ -54,8 +65,8 @@ CONTENT_0:
 
 	
 			</div>
-CONTENT_0
-CONTENT_1:
+OLDCONTENT_0
+OLDCONTENT_1:
 			<div class="block">
 						
 				<div class="post-title">
@@ -71,8 +82,8 @@ CONTENT_1:
 <strong>Twitter feed: </strong><a href="http://twitter.com/#!/Dual_Control">@Dual_Control</a><br />
 <strong>Organised by: </strong><a href="http://twitter.com/#!/darrenscotland"><span>Darren Scotland</a></p>						
 			</div>
-CONTENT_1
-CONTENT_2:
+OLDCONTENT_1
+OLDCONTENT_2:
 			<div class="block">
 						
 				<div class="post-title">
@@ -83,7 +94,7 @@ CONTENT_2:
 <iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce57b1af3cc1bc&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004ae1ce57b1af3cc1bc&amp;source=embed" >View a full map</a>
 </p>
 			</div>
-CONTENT_2
+OLDCONTENT_2
 FACEBOOK_COMMENTS: YES
 INCLUDE_0: shared_promo1.insdat
 INCLUDE_1: shared_promo2.insdat

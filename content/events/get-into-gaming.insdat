@@ -28,6 +28,23 @@ CONTENT_1:
 			<div class="block">
 						
 				<div class="post-title">
+					<h2>Reports from the event</h2>
+					<p>&nbsp;</p>
+				</div>
+				
+<p>
+			<ul class="nav link-block">
+				<li><a href="http://www.waynehanley.com/2011/co-op-gaming/">
+					<span>Wayne Hanley</span> on Get Into Gaming
+				</a></li>
+			</ul>
+</p>
+</div>
+CONTENT_1
+CONTENT_2:
+			<div class="block">
+						
+				<div class="post-title">
 					<h2>The Details</h2>
 					<p>&nbsp;</p>
 				</div>
@@ -40,8 +57,8 @@ CONTENT_1:
 <strong>Links: </strong><a href="http://www.getintogaming.co.uk/">Get Into Gaming website</a><br />
 <strong>Organised by: </strong><a href="http://twitter.com/#!/IdleSi"><span>Si Wilson</a> and <a href="http://twitter.com/#!/sevik">Sean Parker</a></p>				
 			</div>
-CONTENT_1
-CONTENT_2:
+CONTENT_2
+CONTENT_3:
 			<div class="block">
 						
 				<div class="post-title">
@@ -52,7 +69,7 @@ CONTENT_2:
 <iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca1ca1d4a0b1ebc&amp;output=embed&amp;z=16"></iframe><br /><a href="http://maps.google.co.uk/maps/ms?msa=0&amp;msid=217089288397666584473.0004adca19241cd16a4e3&amp;hl=en&amp;ie=UTF8&amp;ll=53.816965,-1.529538&amp;spn=0.053718,0.124305&amp;t=m&amp;vpsrc=6&amp;iwloc=0004adca1ca1d4a0b1ebc&amp;source=embed" >View a full map</a>
 </p>
 			</div>
-CONTENT_2
+CONTENT_3
 FACEBOOK_COMMENTS: YES
 INCLUDE_0: shared_promo1.insdat
 INCLUDE_1: shared_promo2.insdat
